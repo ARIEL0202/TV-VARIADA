@@ -22,7 +22,40 @@ https://tls.cdnz.cl/escgabrielamistral/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-o3noqKpbivw/XjtBD2Ws4OI/AAAAAAAAvoM/sIoMotgONs4bBHXx0BYiJ0149it5CSf6ACK8BGAsYHg/s0/2020-02-05.png" group-title="ARGENTINA", Canal 3 Pinamar
 http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---C22.png" group-title="CD Cd Aut Bs As",Canal 22 - Web   TV - CABA TV Web - CD Cd Aut Bs As
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0057
+
 #EXTINF:-1 tvg-id="127476" tvg-name="Vibra TV" tvg-logo="https://lh3.googleusercontent.com/-AWhlcwrfjpA/YBq89KsOy0I/AAAAAAAA_pc/7rgIdjHyQbke1LRyLbQk3PAcLUm1SjhrwCK8BGAsYHg/s0/2021-02-03.png", Vibra TV https://stmv1.zcastbr.com/vibratv/vibratv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-4TVJU.png" group-title="JU Jujuy",Canal 4 - 4CTV - San S de Jujuy - JU Jujuy
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0147
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-13MAX.png" group-title="CR Corrientes",13 Max - 32.1TV - Corrientes - CR Corrientes
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0135
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAIRESF.png" group-title="ST Santa Fe",Aire de Santa Fe - 91.1 TV - Santa Fe - ST Santa Fe
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0193
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--C5SF.png" group-title="ST Santa Fe",C5SF - 5 TV - Santa Fe  TV - ST Santa Fe
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0195
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI450.png" group-title="ER Entre Rios",LRI450 TV Litoral - 9 TV - Paraná - ER Entre Rios
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0139
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---ETC.png" group-title="CH Chubut",ETC - 4CTV - Esquel - CH Chubut
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0110
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPLA949.png" group-title="ST Santa Fe",Play - 94.9 TV - Alcorta - ST Santa Fe
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0179
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--79TV.png" group-title="SJ San Juan",Canal 79 - CTV - San Juan  TV - SJ San Juan
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0174
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---2LR.png" group-title="LR La Rioja",Canal 2 - 2 TV - La Rioja TV - LR La Rioja
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0149
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--RSTV.png" group-title="BA Buenos Aires",RSTV - 105.1 TV - Berisso - BA Buenos Aires
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0076
 
 #EXTINF:-1 tvg-id="108923" tvg-name="Canal 13 La Rioja" tvg-logo="https://lh3.googleusercontent.com/-f20l_uEV2Mo/X1THHvcl76I/AAAAAAAA5Sk/7MhDM9q__hMsWcD2yyk27u_7VU9k9MA9wCK8BGAsYHg/s0/2020-09-06.jpg", Canal 13 La Rioja http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
 
@@ -44,6 +77,9 @@ https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8?PlaylistM
 
 #EXTINF:-1 tvg-id="102985" tvg-name="Exprezion TV" tvg-logo="https://lh3.googleusercontent.com/-THdaYfFi1xU/X60myXKF8tI/AAAAAAAA7Og/hB3m6DqzN9EvfnoBnjNWKiT9MT6hDSl4QCK8BGAsYHg/s0/2020-11-12.png", Exprezion TV
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-4BERA.png" group-title="GB Gran Bs As",Canal 4 - 4 TV - Berazategui - GB Gran Bs As
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0063
 
 #EXTINF:-1 tvg-id="116640" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://lh3.googleusercontent.com/-obky0xopJjA/XrIZZ5C1quI/AAAAAAAA0bo/OBDSs6fw5zEa1eQJrv7j7IkMtaoQFcBJgCK8BGAsYHg/s0/2020-05-05.png", Retro Plus TV Señal 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
