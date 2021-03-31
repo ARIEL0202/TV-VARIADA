@@ -1,4 +1,14 @@
-# TV-CINE-SERIES-CULTURALES-
+#EXTINF:-1 tvg-id="113859" tvg-name="RT" tvg-logo="https://lh3.googleusercontent.com/-lFxeunh5PmY/X5F4yyCtQ1I/AAAAAAAA6os/89eVaEZroogQRsDPzDjJ6lo8TUJYJsmoACK8BGAsYHg/s0/2020-10-22.png", RT https://rt-esp.secure.footprint.net/1102.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="83641" tvg-name="DW Español" tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png", DW Español https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="LATIN AMERICA",CGTN Español (Opt-1) http://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERYFAMSPA" tvg-logo="" group-title="",DISCOVERYFAMSPA http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/510
+
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO MUNDO HD" tvg-logo="" group-title="",NATGEO MUNDO HD http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/598
+
+#EXTINF:-1 tvg-id="83646" tvg-name="Zee Mundo" tvg-logo="https://lh3.googleusercontent.com/-2pmSiXQcjhg/XbI0Q6gvXQI/AAAAAAAArqY/k_Qak4p83D8p-9bdpIILVGGjBXTTGffKQCK8BGAsYHg/s0/2019-10-24.png", Zee Mundo https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="104452" tvg-name="CSTV" tvg-logo="https://lh3.googleusercontent.com/-FO_MlzlWSL0/XtV_Ce2TltI/AAAAAAAA1XE/7jcBrfL19qwjBOJ4knqOiXQZCni99OwWACK8BGAsYHg/s0/2020-06-01.png", Tv Simpsons CSTV
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
@@ -36,6 +46,36 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?Playl
 #EXTINF:-1 tvg-id="DKISS" tvg-logo="https://www.dropbox.com/s/jz9e66540y015p9/Kiss_FM.png?dl=1" group-title="SPAIN",DKISS http://91.126.141.201:1935/live/kiss/chunklist_w951039339.m3u8
 
 #EXTINF:-1 tvg-id="TEN" tvg-logo="https://www.dropbox.com/s/javwy3r01h5p4dp/Ten.png?dl=1" group-title="SPAIN",TEN http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://lh3.googleusercontent.com/-1vka6r8W0mM/Wn9nbBlPjSI/AAAAAAAAgw8/FjO6TeBOhrY12r-DnLOawEFZpf89I5vEQCK8BGAs/s512/2018-02-10.png" group-title="Groups", Televida HD peliculas https://tls.cdnz.cl/televida/ngrp:live_all/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Zaidk6n.png" group-title="ARGENTINA",Telemax http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gV2Vmr9.png" group-title="USA",FailArmy (Opt-1) https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gV2Vmr9.png" group-title="USA",FailArmy (Opt-2) http://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://web-cdn.blivenyc.com/generic/mee.logo-golden-trans.png" group-title="USA",AKC TV https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fcnRf1f.png" group-title="FRANCE",Fashion TV (Opt-1) http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+
+#EXTINF:-1,MODA:HD Fashion http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png?cVFRoMuFTxEWh0CmC_3DoU.NenvZVtOW&itok=auBIH1Oi" group-title="MODA",FTV Midnight Secret https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="127319" tvg-name="Chic Magazine" tvg-logo="https://lh3.googleusercontent.com/-VQiXnvScrdo/X9kBIY6eCeI/AAAAAAAA8Pk/RqwvHCzyqT07Izb5NG9RLx7serX6u18JQCK8BGAsYHg/s0/2020-12-15.png", Chic Magazine https://paneltv.online:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS" tvg-logo="" group-title="",NATGEO KIDS http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/738
+
+#EXTINF:-1 tvg-id="" tvg-name="TIIN" tvg-logo="" group-title="",TIIN http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="COSTA RICA",Extrema TV http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/otOhIe8.png" group-title="ECUADOR",UCSG (Opt-1) http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lv0mnMF.png" group-title="DOMINICAN REPUBLIC",Onda TV 10 http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wYklHWy.png" group-title="DOMINICAN REPUBLIC",Telecanal 28 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-o3noqKpbivw/XjtBD2Ws4OI/AAAAAAAAvoM/sIoMotgONs4bBHXx0BYiJ0149it5CSf6ACK8BGAsYHg/s0/2020-02-05.png" group-title="ARGENTINA", Canal 3 Pinamar
 http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8?PlaylistM3UCL
@@ -109,16 +149,22 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0057
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-13MAX.png" group-title="CR Corrientes",13 Max - 32.1TV - Corrientes - CR Corrientes
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0135
 
+#EXTINF:-1 tvg-id="102481" tvg-name="Canal Capital" tvg-logo="https://lh3.googleusercontent.com/-Emi_jrNT71c/XqeMwoB2P-I/AAAAAAAAyS4/pUS5P-UYKsoW5xFT9RQjmCl7ONAL0oG4wCK8BGAsYHg/s0/2020-04-27.png", Canal Capital https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI450.png" group-title="ER Entre Rios",LRI450 TV Litoral - 9 TV - Paraná - ER Entre Rios
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0139
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---ETC.png" group-title="CH Chubut",ETC - 4CTV - Esquel - CH Chubut
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0110
 
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="",CARTOON NETWORK http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683
+
 #EXTINF:-1 tvg-id="45105" tvg-name="Cachipum TV Series" tvg-logo="https://lh3.googleusercontent.com/-o3e8-Anqn9c/YDwtBblb4TI/AAAAAAABAcU/wUxey7x45B0-10ieDzZJiW1HTiKpeG-JgCK8BGAsYHg/s512/2021-02-28.png", Cachipum TV Series
 https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="127476" tvg-name="Vibra TV" tvg-logo="https://lh3.googleusercontent.com/-AWhlcwrfjpA/YBq89KsOy0I/AAAAAAAA_pc/7rgIdjHyQbke1LRyLbQk3PAcLUm1SjhrwCK8BGAsYHg/s0/2021-02-03.png", Vibra TV https://stmv1.zcastbr.com/vibratv/vibratv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iAbU1OU.png" group-title="USA",The Pet Collective 2 http://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
 
 #EXTINF:-1 tvg-id="115431" tvg-name="G Vision" tvg-logo="https://lh3.googleusercontent.com/-8Ea5VntW8MU/X6spmWq7SLI/AAAAAAAA7LE/ruh-WJMJ0rY39THjAhMZhV7L5UbgkNffACK8BGAsYHg/s0/2020-11-10.png", G Vision
 https://tls.cdnz.cl/escgabrielamistral/live/playlist.m3u8?PlaylistM3UCL
