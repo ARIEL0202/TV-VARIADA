@@ -27,6 +27,16 @@ http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="101463" tvg-name="WOW TV" tvg-logo="https://lh3.googleusercontent.com/-HpeYE76LC3U/XpNZeGRkVnI/AAAAAAAAx1I/w8gU81KqISsyhBab06b-c82cml45DUQgACK8BGAsYHg/s0/2020-04-12.png", WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="SPAIN" tvg-name="La 2",La 2 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+
+#EXTINF:-1t vg-logo="http://3.bp.blogspot.com/-QYPP4sZ5xNE/UtVvCmgfgDI/AAAAAAAASKo/EWP3le9cE2E/s1600/divinity.png" group-title="SPAIN", Divinity http://91.126.141.12:1935/live/smil:divinity.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DMAX.es" tvg-logo="http://logo.ddnb.tn/logochanel/1256.png" group-title="SPAIN",DMax http://91.126.141.12:1935/live/discoverymax/playlist.m3u8?OPT:adaptive=1
+
+#EXTINF:-1 tvg-id="DKISS" tvg-logo="https://www.dropbox.com/s/jz9e66540y015p9/Kiss_FM.png?dl=1" group-title="SPAIN",DKISS http://91.126.141.201:1935/live/kiss/chunklist_w951039339.m3u8
+
+#EXTINF:-1 tvg-id="TEN" tvg-logo="https://www.dropbox.com/s/javwy3r01h5p4dp/Ten.png?dl=1" group-title="SPAIN",TEN http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-o3noqKpbivw/XjtBD2Ws4OI/AAAAAAAAvoM/sIoMotgONs4bBHXx0BYiJ0149it5CSf6ACK8BGAsYHg/s0/2020-02-05.png" group-title="ARGENTINA", Canal 3 Pinamar
 http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8?PlaylistM3UCL
 
