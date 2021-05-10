@@ -128,3 +128,13 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0135
 
 #EXTINF:-1 tvg-id="115431" tvg-name="G Vision" tvg-logo="https://lh3.googleusercontent.com/-8Ea5VntW8MU/X6spmWq7SLI/AAAAAAAA7LE/ruh-WJMJ0rY39THjAhMZhV7L5UbgkNffACK8BGAsYHg/s0/2020-11-10.png", G Vision
 https://tls.cdnz.cl/escgabrielamistral/live/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="141053" tvg-name="ASTER CHANEEL" tvg-logo="http://canalaster.club/Se%C3%B1al-en-Vivo/" group-title="00 - Argentina", ASTER CHANEEL
+http://96.30.193.226:81/hls/canalaster.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="141057" tvg-name=" E!" tvg-logo=" E!" group-title="00 - Argentina",  E!
+http://138.117.71.80:25461/test/test/189?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="141049" tvg-name="SUN CHANNEL" tvg-logo="SUN CHANNEL" group-title="00 - Argentina", SUN CHANNEL
+http://138.117.71.80:25461/test/test/187?PlaylistM3UCL
+
