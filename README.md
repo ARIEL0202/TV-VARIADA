@@ -12,6 +12,10 @@ https://v2.tustreaming.cl/chilechannel/live1/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="140177" tvg-name="NEO TV DIGITAL - 14.1" tvg-logo="#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"" group-title="00 - Argentina", NEO TV DIGITAL - 14.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="140121" tvg-name=" TV SALUD" tvg-logo="http://www.m3u.cl/logo/90570_TV_Salud.png"" group-title="00 - Argentina",  TV SALUD
+https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="139944" tvg-name="CINEAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="00 - Argentina", CINEAR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="113859" tvg-name="RT" tvg-logo="https://lh3.googleusercontent.com/-lFxeunh5PmY/X5F4yyCtQ1I/AAAAAAAA6os/89eVaEZroogQRsDPzDjJ6lo8TUJYJsmoACK8BGAsYHg/s0/2020-10-22.png", RT https://rt-esp.secure.footprint.net/1102.m3u8?PlaylistM3UCL
 
