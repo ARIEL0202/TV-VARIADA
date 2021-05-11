@@ -1,3 +1,18 @@
+#EXTINF:-1 tvg-id="141053" tvg-name="ASTER CHANEEL" tvg-logo="http://canalaster.club/Se%C3%B1al-en-Vivo/" group-title="00 - Argentina", ASTER CHANEEL
+http://96.30.193.226:81/hls/canalaster.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141049" tvg-name="SUN CHANNEL" tvg-logo="SUN CHANNEL" group-title="00 - Argentina", SUN CHANNEL
+http://138.117.71.80:25461/test/test/187?PlaylistM3UCL
+#EXTINF:-1 tvg-id="140331" tvg-name="COSMOVISION" tvg-logo="" group-title="Sin Categoria", COSMOVISION
+https://video.cosmovision.tv/live/sd_720p2628kbs/index.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="140326" tvg-name="VEN TV PREMIUM" tvg-logo="" group-title="..::Canales Premium::..", VEN TV PREMIUM
+https://5d79ae45bc63b.streamlock.net/natanaeltv/natanaeltv/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="140323" tvg-name="CHILE CHANNEL" tvg-logo="" group-title="00 - Chile", CHILE CHANNEL
+https://v2.tustreaming.cl/chilechannel/live1/tracks-v1a1/mono.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="140302" tvg-name="SPEED TV" tvg-logo="" group-title="00 - Argentina", SPEED TV
+http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="140177" tvg-name="NEO TV DIGITAL - 14.1" tvg-logo="#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"" group-title="00 - Argentina", NEO TV DIGITAL - 14.1
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="113859" tvg-name="RT" tvg-logo="https://lh3.googleusercontent.com/-lFxeunh5PmY/X5F4yyCtQ1I/AAAAAAAA6os/89eVaEZroogQRsDPzDjJ6lo8TUJYJsmoACK8BGAsYHg/s0/2020-10-22.png", RT https://rt-esp.secure.footprint.net/1102.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="83641" tvg-name="DW Español" tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png", DW Español https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8?PlaylistM3UCL
@@ -129,12 +144,5 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0135
 #EXTINF:-1 tvg-id="115431" tvg-name="G Vision" tvg-logo="https://lh3.googleusercontent.com/-8Ea5VntW8MU/X6spmWq7SLI/AAAAAAAA7LE/ruh-WJMJ0rY39THjAhMZhV7L5UbgkNffACK8BGAsYHg/s0/2020-11-10.png", G Vision
 https://tls.cdnz.cl/escgabrielamistral/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="141053" tvg-name="ASTER CHANEEL" tvg-logo="http://canalaster.club/Se%C3%B1al-en-Vivo/" group-title="00 - Argentina", ASTER CHANEEL
-http://96.30.193.226:81/hls/canalaster.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="141057" tvg-name=" E!" tvg-logo=" E!" group-title="00 - Argentina",  E!
-http://138.117.71.80:25461/test/test/189?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="141049" tvg-name="SUN CHANNEL" tvg-logo="SUN CHANNEL" group-title="00 - Argentina", SUN CHANNEL
-http://138.117.71.80:25461/test/test/187?PlaylistM3UCL
 
