@@ -26,6 +26,12 @@ https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8?PlaylistM3
 http://server.miamitvchannel.com/externos/nuevaimagen/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="140302" tvg-name="SPEED TV" tvg-logo="" group-title="00 - Argentina", SPEED TV
 http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="138982" tvg-name="SOL TV" tvg-logo="http://www.m3u.cl/logo/109756_Sol_TV.png" group-title="00 - Argentina", SOL TV
+https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="138211" tvg-name="WOW TV" tvg-logo="https://simple-stream.net/uploads/tv_image/wow-tv-el-salvador.png" group-title="00 - Argentina", WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="138187" tvg-name="GEN TV-17.3" tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="00 - Argentina", GEN TV-17.3
+https://videohd.live:19360/8010/8010.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="113859" tvg-name="RT" tvg-logo="https://lh3.googleusercontent.com/-lFxeunh5PmY/X5F4yyCtQ1I/AAAAAAAA6os/89eVaEZroogQRsDPzDjJ6lo8TUJYJsmoACK8BGAsYHg/s0/2020-10-22.png", RT https://rt-esp.secure.footprint.net/1102.m3u8?PlaylistM3UCL
 
