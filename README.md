@@ -32,6 +32,13 @@ https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8?Playlist
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="138187" tvg-name="GEN TV-17.3" tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="00 - Argentina", GEN TV-17.3
 https://videohd.live:19360/8010/8010.m3u8?PlaylistM3UCL
+#EXTINF:-1, ROMANA TV www.achoAPPS.com
+http://tv.romanatv42.com/hls/live.m3u8
+#EXTINF:-1, Microvision 10 www.achoAPPS.com
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
+#EXTINF:-1, Central TV | SD www.achoAPPS.com
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="113859" tvg-name="RT" tvg-logo="https://lh3.googleusercontent.com/-lFxeunh5PmY/X5F4yyCtQ1I/AAAAAAAA6os/89eVaEZroogQRsDPzDjJ6lo8TUJYJsmoACK8BGAsYHg/s0/2020-10-22.png", RT https://rt-esp.secure.footprint.net/1102.m3u8?PlaylistM3UCL
 
