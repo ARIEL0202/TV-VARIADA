@@ -1,19 +1,9 @@
 #EXTINF:-1 tvg-id="141053" tvg-name="ASTER CHANEEL" tvg-logo="http://canalaster.club/Se%C3%B1al-en-Vivo/" group-title="00 - Argentina", ASTER CHANEEL
 http://96.30.193.226:81/hls/canalaster.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="141049" tvg-name="SUN CHANNEL" tvg-logo="SUN CHANNEL" group-title="00 - Argentina", SUN CHANNEL
-http://138.117.71.80:25461/test/test/187?PlaylistM3UCL
 #EXTINF:-1 tvg-id="140331" tvg-name="COSMOVISION" tvg-logo="" group-title="Sin Categoria", COSMOVISION
 https://video.cosmovision.tv/live/sd_720p2628kbs/index.m3u8?PlaylistM3UCL&PlaylistM3UCL
-#EXTINF:-1 tvg-id="140326" tvg-name="VEN TV PREMIUM" tvg-logo="" group-title="..::Canales Premium::..", VEN TV PREMIUM
-https://5d79ae45bc63b.streamlock.net/natanaeltv/natanaeltv/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
-#EXTINF:-1 tvg-id="140323" tvg-name="CHILE CHANNEL" tvg-logo="" group-title="00 - Chile", CHILE CHANNEL
-https://v2.tustreaming.cl/chilechannel/live1/tracks-v1a1/mono.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="140302" tvg-name="SPEED TV" tvg-logo="" group-title="00 - Argentina", SPEED TV
 http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="140177" tvg-name="NEO TV DIGITAL - 14.1" tvg-logo="#EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png"" group-title="00 - Argentina", NEO TV DIGITAL - 14.1
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="140121" tvg-name=" TV SALUD" tvg-logo="http://www.m3u.cl/logo/90570_TV_Salud.png"" group-title="00 - Argentina",  TV SALUD
-https://srv3.zcast.com.br/mastermedia/mastermedia/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="139944" tvg-name="CINEAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="00 - Argentina", CINEAR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="138982" tvg-name="SOL TV" tvg-logo="http://www.m3u.cl/logo/109756_Sol_TV.png" group-title="00 - Argentina", SOL TV
@@ -24,10 +14,6 @@ https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8?PlaylistM3UCL
 https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="138151" tvg-name="Nueva imagen TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngqtDnzzen9SgbziIySesx-8wvp-fIGlYasqQh_rQ=s88-c-k-c0x00ffffff-no-rj" group-title="00 - Argentina", Nueva imagen TV
 http://server.miamitvchannel.com/externos/nuevaimagen/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="140302" tvg-name="SPEED TV" tvg-logo="" group-title="00 - Argentina", SPEED TV
-http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="138982" tvg-name="SOL TV" tvg-logo="http://www.m3u.cl/logo/109756_Sol_TV.png" group-title="00 - Argentina", SOL TV
-https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="138211" tvg-name="WOW TV" tvg-logo="https://simple-stream.net/uploads/tv_image/wow-tv-el-salvador.png" group-title="00 - Argentina", WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="138187" tvg-name="GEN TV-17.3" tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="00 - Argentina", GEN TV-17.3
@@ -38,7 +24,6 @@ http://tv.romanatv42.com/hls/live.m3u8
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
 #EXTINF:-1, Central TV | SD www.achoAPPS.com
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="113859" tvg-name="RT" tvg-logo="https://lh3.googleusercontent.com/-lFxeunh5PmY/X5F4yyCtQ1I/AAAAAAAA6os/89eVaEZroogQRsDPzDjJ6lo8TUJYJsmoACK8BGAsYHg/s0/2020-10-22.png", RT https://rt-esp.secure.footprint.net/1102.m3u8?PlaylistM3UCL
 
