@@ -157,4 +157,14 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0135
 https://tls.cdnz.cl/escgabrielamistral/live/playlist.m3u8?PlaylistM3UCL
 
 
+#EXTINF:-55 tvg-logo="https://i.postimg.cc/PrkmSn77/Boomerangclasico.png" group-title="NIÑOS Y ADOLESCENTES", BOOMERANG CLÁSICO
+http://96.30.193.226:81/hls/boomerang.m3u8
 
+#EXTINF:-55 tvg-logo="https://assets.stickpng.com/images/5a05b6b79cf05203c4b6045f.png" group-title="NIÑOS Y ADOLESCENTES", LOS SIMPSONS
+https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
+
+#EXTINF:-58 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/1200px-El_Chavo_%28simple_logo%29.svg.png" group-title="NIÑOS Y ADOLESCENTES", EL CHAVO
+https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w925937130.m3u8
+
+#EXTINF:-58 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Pakapaka_logo20.png" group-title="NIÑOS Y ADOLESCENTES", PAKA PAKA
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w1354145754.m3u8
