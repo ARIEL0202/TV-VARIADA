@@ -1,27 +1,50 @@
-#EXTINF:-1 tvg-id="141053" tvg-name="ASTER CHANEEL" tvg-logo="http://canalaster.club/Se%C3%B1al-en-Vivo/" group-title="00 - Argentina", ASTER CHANEEL
-http://96.30.193.226:81/hls/canalaster.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="140331" tvg-name="COSMOVISION" tvg-logo="" group-title="Sin Categoria", COSMOVISION
 https://video.cosmovision.tv/live/sd_720p2628kbs/index.m3u8?PlaylistM3UCL&PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="140302" tvg-name="SPEED TV" tvg-logo="" group-title="00 - Argentina", SPEED TV
 http://srv3.zcast.com.ar/speedtv/speedtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="139944" tvg-name="CINEAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="00 - Argentina", CINEAR
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="138982" tvg-name="SOL TV" tvg-logo="http://www.m3u.cl/logo/109756_Sol_TV.png" group-title="00 - Argentina", SOL TV
-https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="138456" tvg-name="San Pedro TV" tvg-logo="https://lh3.googleusercontent.com/-NIJDSgSyQwI/YF4tcPPggxI/AAAAAAABA9Y/1pkfP7_eu10_moioRSqfOJpdaGgDsv2agCK8BGAsYHg/s512/2021-03-26.png" group-title="Argentina", San Pedro TV
 https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="138381" tvg-name="FMTV 2 Movies" tvg-logo="https://lh3.googleusercontent.com/-t4L8hNzWCqg/X5DE85fJ91I/AAAAAAAA6nc/obm_y2scE0ULVHohSM5KdnQEkvMjOYEOACK8BGAsYHg/s0/2020-10-21.png" group-title="Peliculas y Series", FMTV 2 Movies
 https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="138151" tvg-name="Nueva imagen TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngqtDnzzen9SgbziIySesx-8wvp-fIGlYasqQh_rQ=s88-c-k-c0x00ffffff-no-rj" group-title="00 - Argentina", Nueva imagen TV
-http://server.miamitvchannel.com/externos/nuevaimagen/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="138211" tvg-name="WOW TV" tvg-logo="https://simple-stream.net/uploads/tv_image/wow-tv-el-salvador.png" group-title="00 - Argentina", WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Wow TV HD CO" tvg-logo="http://pici.life/CO/Canal_Wow.png" group-title="Colombia",Canal Wow TV HD CO
+http://ipflix.click:8080/h602/rflx42k17c/15670
+
+#EXTINF:-29 tvg-logo="https://1.bp.blogspot.com/-Jt9iLTl60OI/YFerCGX_48I/AAAAAAAAAE0/iMHDPAdTFF4uL1-uDqEq8kidNq40CCvwwCPcBGAYYCw/w1200-h630-p-k-no-nu/Emprende%2BTV%2Blogo.png" group-title="NACIONALES", EMPRENDE TV
+https://59ce1298bfb98.streamlock.net/emprendetv/emprendetv/playlist.m3u8
+
+#EXTINF:-102 tvg-logo="https://i.postimg.cc/0QYJ38GM/huascotv.jpg" group-title="CHILE", HUASCO TV
+https://paneltv.online:1936/8062/8062/playlist.m3u8
+#EXTINF:-106 tvg-logo="https://i.postimg.cc/4dWwMbQh/tvmaule.png" group-title="CHILE", TV MAULE LIVE
+https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1175212722.m3u8?WebM3UCL
+#EXTINF:-121 tvg-logo="https://i.postimg.cc/P5dgBKmS/telesurcr.png" group-title="COSTA RICA", TELESUR
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-124 tvg-logo="https://i.postimg.cc/63VSjvyk/teleuno.png" group-title="COSTA RICA", TELE UNO
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-130 tvg-logo="https://i.postimg.cc/6pCZMyFX/canal6rd.png" group-title="REPÚBLICA DOMINICANA", CANAL 6 DAJABÓN
+https://cdn4.hostlagarto.com:8081/static/canal6tv/playlist.m3u8
+
+#EXTINF:-133 tvg-logo="https://i.postimg.cc/SsRJbs1j/galaxiatv.png" group-title="REPÚBLICA DOMINICANA", GALAXIA TV
+https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
+
+#EXTINF:-130 tvg-logo="https://i.postimg.cc/LXF2Nsdr/microvision.jpg" group-title="REPÚBLICA DOMINICANA", MICROVISIÓN
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
+
 #EXTINF:-1 tvg-id="138187" tvg-name="GEN TV-17.3" tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="00 - Argentina", GEN TV-17.3
 https://videohd.live:19360/8010/8010.m3u8?PlaylistM3UCL
+
 #EXTINF:-1, ROMANA TV www.achoAPPS.com
 http://tv.romanatv42.com/hls/live.m3u8
+
 #EXTINF:-1, Microvision 10 www.achoAPPS.com
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
+
 #EXTINF:-1, Central TV | SD www.achoAPPS.com
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
@@ -38,12 +61,6 @@ https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/play
 
 #EXTINF:-1 tvg-id="96701" tvg-name="FMTV 1" tvg-logo="https://lh3.googleusercontent.com/-t4L8hNzWCqg/X5DE85fJ91I/AAAAAAAA6nc/obm_y2scE0ULVHohSM5KdnQEkvMjOYEOACK8BGAsYHg/s0/2020-10-21.png", FMTV 1
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png" group-title="CINE", Orbit Tv
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="101462" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://lh3.googleusercontent.com/-j_2wCJpRlBs/X0QTOy-h68I/AAAAAAAA47k/JLK21FNZEy8o85F8WNJ4QRJwDOwsWvrDQCK8BGAsYHg/s0/2020-08-24.png", Mi TV Televisión Clásica
-http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="110679" tvg-name="El Chavo TV" tvg-logo="https://lh3.googleusercontent.com/-5eP6g5sX97U/X0lgCjh-dmI/AAAAAAAA5CQ/VWuz7CEH4Lswd2SPPB9U9RjbmbtMcuP4wCK8BGAsYHg/s0/2020-08-28.png", El Chavo TV
 https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
@@ -99,6 +116,18 @@ http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="127319" tvg-name="Chic Magazine" tvg-logo="https://lh3.googleusercontent.com/-VQiXnvScrdo/X9kBIY6eCeI/AAAAAAAA8Pk/RqwvHCzyqT07Izb5NG9RLx7serX6u18JQCK8BGAsYHg/s0/2020-12-15.png", Chic Magazine https://paneltv.online:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YhMZXUp.png" group-title="DOMINICAN REPUBLIC",Romana TV 42
+http://tv.romanatv42.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 6 HN" tvg-logo="" group-title="Latin America",Canal 6 HN
+http://ipflix.click:8080/h602/rflx42k17c/626962
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11 HN" tvg-logo="" group-title="Latin America",Canal 11 HN
+http://ipflix.click:8080/h602/rflx42k17c/626965
+
+#EXTINF:-1 tvg-id="senal.co" tvg-name="Senal Colombia HD CO" tvg-logo="http://pici.life/Logo/senal_co.png" group-title="Colombia",Senal Colombia HD CO
+http://ipflix.click:8080/h602/rflx42k17c/629054
+
 #EXTINF:-1 tvg-id="" tvg-name="NATGEO KIDS" tvg-logo="" group-title="",NATGEO KIDS http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/738
 
 #EXTINF:-1 tvg-id="" tvg-name="TIIN" tvg-logo="" group-title="",TIIN http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/759
@@ -135,6 +164,9 @@ https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8?PlaylistM
 
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/DyMCgdHZ/gentv.png" group-title="ARGENTINA", GEN TV
 https://videohd.live:19360/8010/8010.m3u8
+
+#EXTINF:-240 tvg-logo="https://i.postimg.cc/0j2fGcsV/readytv.png" group-title="REPÚBLICA DOMINICANA", READY TV
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/VkNkBY1D/4esquel.png" group-title="ARGENTINA", CANAL 4 ESQUEL
 https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u8
@@ -234,5 +266,11 @@ https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w925937130
 #EXTINF:-58 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Pakapaka_logo20.png" group-title="NIÑOS Y ADOLESCENTES", PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w1354145754.m3u8
 
+#EXTINF:-175 tvg-logo="https://i.postimg.cc/SR3fvmmn/xtrematv.png" group-title="EVANGÉLICO", EXTREMA TV
+https://www.livestreamcdn.net:444/ExtremaTV/_definst_/ExtremaTV/chunklist_w755934857.m3u8
+
 #EXTINF:-64 tvg-logo="https://i.postimg.cc/j2cN2NM2/1200px-Atrescine-logo-svg.png" group-title="CINE Y SERIES", A3CINE
 http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
+
+#EXTINF:-1 tvg-id="138151" tvg-name="Nueva imagen TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngqtDnzzen9SgbziIySesx-8wvp-fIGlYasqQh_rQ=s88-c-k-c0x00ffffff-no-rj" group-title="00 - Argentina", Nueva imagen TV
+http://server.miamitvchannel.com/externos/nuevaimagen/playlist.m3u8?PlaylistM3UCL
