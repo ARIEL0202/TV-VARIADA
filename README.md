@@ -133,6 +133,60 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?t
 #EXTINF:-1 tvg-id="81557" tvg-name="TDC TV Santa Fe" tvg-logo="https://lh3.googleusercontent.com/-yXbMzmQrlwc/Xjs7Bl2nHtI/AAAAAAAAvnU/lSMJ7dxyZL08lM3-UbyU4ckOLrd3HTwvQCK8BGAsYHg/s0/2020-02-05.png", TDC TV Santa Fe
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/DyMCgdHZ/gentv.png" group-title="ARGENTINA", GEN TV
+https://videohd.live:19360/8010/8010.m3u8
+
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/VkNkBY1D/4esquel.png" group-title="ARGENTINA", CANAL 4 ESQUEL
+https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u8
+
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/zD6Ms47p/valletv.webp" group-title="ARGENTINA", VALLE TV CANAL 9
+http://stmv6.srvstm.com/valletv/valletv/chunklist_w1523292074.m3u8
+
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/7hcwK4m2/C9CRIV.png" group-title="ARGENTINA", CANAL 9 COMODORO RIVADAVIA
+https://live.canalnueve.tv/canal.m3u8
+
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/MKzRpp9G/rtn.png" group-title="ARGENTINA", RTN NEUQUÉN
+http://media.neuquen.gov.ar/rtn/television/chunklist_w380845367.m3u8
+
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/5NNwj7nv/speedtv.png" group-title="ARGENTINA", SPEED TV CONCORDIA
+http://srv3.zcast.com.ar/speedtv/speedtv/chunklist_w1030065714.m3u8
+
+#EXTINF:-202 tvg-logo="https://i.postimg.cc/c4fJ0XWg/cincotv.png" group-title="ARGENTINA", CINCO TV TIGRE
+https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist_w1461023046.m3u8
+
+#EXTINF:-202 tvg-logo="https://i.postimg.cc/vH5Vhdkn/tv-libres.png" group-title="ARGENTINA", TV LIBRES CANAL 10
+https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
+
+#EXTINF:-204 tvg-logo="https://i.postimg.cc/tTbf1bKz/c3pampa.png" group-title="ARGENTINA", CANAL 3 LA PAMPA
+https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/chunklist_w1088876806_b2347008.m3u8
+
+#EXTINF:-205 tvg-logo="https://i.postimg.cc/rwCzCgYX/c4jujuy.png" group-title="ARGENTINA", CANAL 4 JUJUY
+http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1604822537_b121000.m3u8
+
+#EXTINF:-209 tvg-logo="https://i.postimg.cc/v85WNRBC/c9sc.png" group-title="ARGENTINA", CANAL 9 SANTA CRUZ
+https://live.canalnueve.tv/canal.m3u8
+
+#EXTINF:-210 tvg-logo="https://i.postimg.cc/7hNJYkJ6/canal13larioja.jpg" group-title="ARGENTINA", CANAL 13 LA RIOJA
+https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/chunklist_w349212570.m3u8
+
+#EXTINF:-211 tvg-logo="https://i.postimg.cc/8zvDhbwd/8catamarca.png" group-title="ARGENTINA", CANAL 8 CATAMARCA
+https://5975e06a1f292.streamlock.net:4443/c8/c8/chunklist_w205858764.m3u8
+
+#EXTINF:-215 tvg-logo="https://i.postimg.cc/8kL0B0Vz/c29quilmes.jpg" group-title="ARGENTINA", CANAL 29 QUILMES VISIÓN
+https://inliveserver.com:1936/8386/8386/playlist.m3u8
+
+#EXTINF:-219 tvg-logo="https://i.postimg.cc/GhGz18p3/riocuartotv.png" group-title="ARGENTINA", CANAL 9 RÍO CUARTO
+https://streamcasthd.com:1936/canal9riocuartotv/smil:canal9riocuartotv.smil/playlist.m3u8
+
+#EXTINF:-219 tvg-logo="https://i.postimg.cc/bv0tSBxy/multivisionsalta.png" group-title="ARGENTINA", MULTIVISIÓN SALTA
+http://panel.dattalive.com:1935/8250/8250/.m3u8
+
+#EXTINF:-219 tvg-logo="https://i.postimg.cc/qBxNLBLc/SPTV.jpg" group-title="ARGENTINA", SAN PEDRO TV
+https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
+
+#EXTINF:-219 tvg-logo="https://i.postimg.cc/nzqdX9qQ/catamarca-tv.png" group-title="ARGENTINA", CATAMARCA TV
+https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-4BERA.png" group-title="GB Gran Bs As",Canal 4 - 4 TV - Berazategui - GB Gran Bs As
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0063
 
