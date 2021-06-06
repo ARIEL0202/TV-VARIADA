@@ -122,6 +122,9 @@ http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--C5SF.png" group-title="ST Santa Fe",C5SF - 5 TV - Santa Fe  TV - ST Santa Fe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0195
 
+#EXTINF:-1 tvg-id="80300" tvg-name="Canal 7 Chubut" tvg-logo="https://lh3.googleusercontent.com/-dcR6LiSEM3o/XjtCwLNAomI/AAAAAAAAvow/p-uUGIkr-7ANc2E8PvDvRJE2lU4OZ3ExgCK8BGAsYHg/s0/2020-02-05.png", Canal 7 Chubut
+http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="108916" tvg-name="CANAL 5TV" tvg-logo="https://lh3.googleusercontent.com/--7oMElpb_f8/X1TJDRFf8xI/AAAAAAAA5TU/1vhnTw3RmawstVTEtD4B7N9ymuaK5DqZwCK8BGAsYHg/s0/2020-09-06.jpg", CANAL 5TV https://srv3.zcast.com.br/carlosr/carlosr/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPLA949.png" group-title="ST Santa Fe",Play - 94.9 TV - Alcorta - ST Santa Fe
@@ -180,8 +183,17 @@ https://streamcasthd.com:1936/canal9riocuartotv/smil:canal9riocuartotv.smil/play
 #EXTINF:-219 tvg-logo="https://i.postimg.cc/bv0tSBxy/multivisionsalta.png" group-title="ARGENTINA", MULTIVISIÓN SALTA
 http://panel.dattalive.com:1935/8250/8250/.m3u8
 
+#EXTINF:-1 tvg-id="100569" tvg-name="Canal 10 Mar del Plata" tvg-logo="https://lh3.googleusercontent.com/-f0VOu8Vxwc8/Xx4ETCnOtTI/AAAAAAAA3g8/frInrFqrNk4ohqQaNUQRq2BcedFlMU_IgCK8BGAsYHg/s0/2020-07-26.png", Canal 10 Mar del Plata
+https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-219 tvg-logo="https://i.postimg.cc/qBxNLBLc/SPTV.jpg" group-title="ARGENTINA", SAN PEDRO TV
 https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="107313" tvg-name="Sicardi TV" tvg-logo="https://lh3.googleusercontent.com/-wuYicD0_JRo/Xx4DBSPmdhI/AAAAAAAA3gY/W3or3KbI1oEpwLWFbpcO1uEh2GVbRY1CwCK8BGAsYHg/s0/2020-07-26.png", Sicardi TV
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8?PlaylistM3UCL
+
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/d02366Hc/xamatv.png" group-title="ARGENTINA", XAMA TV
+https://sc1.stweb.tv/unisanjuan/live/playlist.m3u8
 
 #EXTINF:-219 tvg-logo="https://i.postimg.cc/nzqdX9qQ/catamarca-tv.png" group-title="ARGENTINA", CATAMARCA TV
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8
