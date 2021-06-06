@@ -156,6 +156,17 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0135
 #EXTINF:-1 tvg-id="115431" tvg-name="G Vision" tvg-logo="https://lh3.googleusercontent.com/-8Ea5VntW8MU/X6spmWq7SLI/AAAAAAAA7LE/ruh-WJMJ0rY39THjAhMZhV7L5UbgkNffACK8BGAsYHg/s0/2020-11-10.png", G Vision
 https://tls.cdnz.cl/escgabrielamistral/live/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-91 tvg-logo="https://i.postimg.cc/d35b060v/latinosup.png" group-title="NOVELAS Y TALKSHOWS", LATINOS UP
+https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1928770453.m3u8
+
+#EXTINF:-124 tvg-logo="https://i.postimg.cc/qqMKPPvk/telesistema.png" group-title="COSTA RICA", TELESISTEMA
+http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w1494491629.m3u8
+
+#EXTINF:-133 tvg-logo="https://i.postimg.cc/brKGThTr/telenord.png" group-title="REPÚBLICA DOMINICANA", TELENORD 12
+http://newyorkstream.ddns.net:5854/telenord12/telenord12/chunklist.m3u8
+
+#EXTINF:-130 tvg-logo="https://i.postimg.cc/y87RrVK3/PHTV.jpg" group-title="REPÚBLICA DOMINICANA", PHTV
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 
 #EXTINF:-55 tvg-logo="https://i.postimg.cc/PrkmSn77/Boomerangclasico.png" group-title="NIÑOS Y ADOLESCENTES", BOOMERANG CLÁSICO
 http://96.30.193.226:81/hls/boomerang.m3u8
