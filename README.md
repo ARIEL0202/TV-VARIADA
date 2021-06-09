@@ -33,6 +33,9 @@ https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
 #EXTINF:-130 tvg-logo="https://i.postimg.cc/LXF2Nsdr/microvision.jpg" group-title="REPÚBLICA DOMINICANA", MICROVISIÓN
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
 
+#EXTINF:-21 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png" group-title="NACIONALES", SOMOS DEL ESTE TV
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
+
 #EXTINF:-1 tvg-id="138187" tvg-name="GEN TV-17.3" tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="00 - Argentina", GEN TV-17.3
 https://videohd.live:19360/8010/8010.m3u8?PlaylistM3UCL
 
@@ -43,10 +46,6 @@ http://tv.romanatv42.com/hls/live.m3u8
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="113859" tvg-name="RT" tvg-logo="https://lh3.googleusercontent.com/-lFxeunh5PmY/X5F4yyCtQ1I/AAAAAAAA6os/89eVaEZroogQRsDPzDjJ6lo8TUJYJsmoACK8BGAsYHg/s0/2020-10-22.png", RT https://rt-esp.secure.footprint.net/1102.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="83641" tvg-name="DW Español" tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png", DW Español https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="LATIN AMERICA",CGTN Español (Opt-1) http://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="83646" tvg-name="Zee Mundo" tvg-logo="https://lh3.googleusercontent.com/-2pmSiXQcjhg/XbI0Q6gvXQI/AAAAAAAArqY/k_Qak4p83D8p-9bdpIILVGGjBXTTGffKQCK8BGAsYHg/s0/2019-10-24.png", Zee Mundo https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?PlaylistM3UCL
 
@@ -92,14 +91,6 @@ http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gV2Vmr9.png" group-title="USA",FailArmy (Opt-2) http://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://web-cdn.blivenyc.com/generic/mee.logo-golden-trans.png" group-title="USA",AKC TV https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fcnRf1f.png" group-title="FRANCE",Fashion TV (Opt-1) http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-
-#EXTINF:-1,MODA:HD Fashion http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png?cVFRoMuFTxEWh0CmC_3DoU.NenvZVtOW&itok=auBIH1Oi" group-title="MODA",FTV Midnight Secret https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="127319" tvg-name="Chic Magazine" tvg-logo="https://lh3.googleusercontent.com/-VQiXnvScrdo/X9kBIY6eCeI/AAAAAAAA8Pk/RqwvHCzyqT07Izb5NG9RLx7serX6u18JQCK8BGAsYHg/s0/2020-12-15.png", Chic Magazine https://paneltv.online:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="" tvg-name="Canal 6 HN" tvg-logo="" group-title="Latin America",Canal 6 HN
 http://ipflix.click:8080/h602/rflx42k17c/626962
