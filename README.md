@@ -229,6 +229,12 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w1354145754
 #EXTINF:-175 tvg-logo="https://i.postimg.cc/SR3fvmmn/xtrematv.png" group-title="EVANGÉLICO", EXTREMA TV
 https://www.livestreamcdn.net:444/ExtremaTV/_definst_/ExtremaTV/chunklist_w755934857.m3u8
 
+#EXTINF:-91 tvg-logo="https://i.postimg.cc/XvgNFpnv/ucv.png" group-title="CHILE", UCV
+https://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTINF:-437 tvg-logo="https://i.postimg.cc/vHKN4jjZ/tvpop.jpg" group-title="MÚSICA", TV POP
+https://v4.tustreaming.cl/poptv/index.m3u8
+
 #EXTINF:-64 tvg-logo="https://i.postimg.cc/j2cN2NM2/1200px-Atrescine-logo-svg.png" group-title="CINE Y SERIES", A3CINE
 http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
