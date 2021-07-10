@@ -22,7 +22,7 @@ https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8?PlaylistM3UCL
 http://ipflix.click:8080/h602/rflx42k17c/15670
 
 #EXTINF:-29 tvg-logo="https://1.bp.blogspot.com/-Jt9iLTl60OI/YFerCGX_48I/AAAAAAAAAE0/iMHDPAdTFF4uL1-uDqEq8kidNq40CCvwwCPcBGAYYCw/w1200-h630-p-k-no-nu/Emprende%2BTV%2Blogo.png" group-title="NACIONALES", EMPRENDE TV
-https://59ce1298bfb98.streamlock.net/emprendetv/emprendetv/playlist.m3u8
+https://59ce1298bfb98.streamlock.net/emprendetv/emprendetv/playlist.m3u8   
 
 #EXTINF:-102 tvg-logo="https://i.postimg.cc/0QYJ38GM/huascotv.jpg" group-title="CHILE", HUASCO TV
 https://paneltv.online:1936/8062/8062/playlist.m3u8
