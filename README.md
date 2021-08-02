@@ -122,9 +122,6 @@ https://live.canalnueve.tv/canal.m3u8
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/VkNkBY1D/4esquel.png" group-title="ARGENTINA", CANAL 4 ESQUEL
 https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---ETC.png" group-title="CH Chubut",ETC - 4CTV - Esquel - CH Chubut
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0110
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6ESCf3yyS1i2vkhRNDR-UPf-UtveJIqyjA&usqp=CAU" group-title="PATAGONIA", TELECINCO TRELEW
 https://videohd.live:19360/8016/8016.m3u8
 
