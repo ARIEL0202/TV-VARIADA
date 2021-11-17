@@ -20,6 +20,9 @@ https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-320x180-000000.jpg" group-title="CINE Y SERIES", DANTV
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="CINE Y SERIES 2", CANAL 5
+https://v-sd.mybtv.net/event/486/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/06blQk_MW8hp4sQEfxlkxrm3Vlnyj0Wg6Diu_CdLui3wW8Pk9SXFaScG-ErDuKzYQes" group-title="CINE Y SERIES", SARAPIQUÍ TV
 http://209.126.105.158:1935/stv/web/playlist.m3u8
 
