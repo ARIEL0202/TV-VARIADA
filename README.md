@@ -25,6 +25,9 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-130 tvg-logo="https://i.postimg.cc/LXF2Nsdr/microvision.jpg" group-title="REPÚBLICA DOMINICANA", MICROVISIÓN
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
 
+#EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1602292739515.png", CANAL-5
+http://51.79.18.128:8081/LATINO%7CCANAL5/LATINO%7CCANAL5/playlist.m3u8
+
 #EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1602320590128.jpg", BITME http://51.79.18.128:8081/LATINO%7CBITME/LATINO%7CBITME/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/2020-07/TeleSUR-Costa%2520Rica.png" group-title="INTERNACIONAL", TELESUR COSTA RICA
@@ -175,13 +178,16 @@ http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-21 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png" group-title="NACIONALES", SOMOS DEL ESTE TV
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_5_Mexico_logo_2014.svg/120px-Canal_5_Mexico_logo_2014.svg.png" group-title="CINE Y SERIES 2", CANAL 5
-https://v-sd.mybtv.net/event/486/1920x1080.m3u8?start_time=2021-05-16&end_time=2023-05-17&uid=33630
-
+#EXTINF:-1 tvg-logo="http://www.estoesmachagai.com/web/img/IMAGEN_PORTADA_SITIO_WEB_02.jpg" group-title="NORTE", CANAL 3 PLUS TV  MACHAGAI CHACO
+https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.estoesmachagai.com/web/img/IMAGEN_PORTADA_SITIO_WEB_02.jpg" group-title="NORTE", CANAL 3 PLUS TV  MACHAGAI CHACO
 https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/playlist.m3u8
 
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/DyMCgdHZ/gentv.png" group-title="ARGENTINA", GEN TV
+https://videohd.live:19360/8010/8010.m3u8
+#EXTINF:-1 tvg-id="138187" tvg-name="GEN TV-17.3" tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="00 - Argentina", GEN TV-17.3
+https://videohd.live:19360/8010/8010.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="AMBA", GEN TV  17.3
 https://videohd.live:19360/8010/8010.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT1CWUuUCYIUmUwMKSE18tNRsrFGdg7F3RVQ&usqp=CAU" group-title="NORTE", CTV CORRIENTES
@@ -193,10 +199,20 @@ https://mediacp.hostradios.com.ar:19360/canal7/canal7.m3u8
 https://stmv1.srvstm.com/senillosa/senillosa/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gV2Vmr9.png" group-title="USA",FailArmy (Opt-1) https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gV2Vmr9.png" group-title="USA",FailArmy (Opt-1)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-failarmy/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/nbzbHum.png" group-title="USA",FailArmy (1080p)
+https://failarmy-linear.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="FailArmyInternational.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/nbzbHum.png" group-title="USA",FailArmy International (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="STIRRFailArmy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/nbzbHum.png" group-title="USA",STIRR FailArmy (720p)
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 
 #EXTINF:-130 tvg-logo="https://i.postimg.cc/bv2dqMg0/teleislas.webp" group-title="COLOMBIA", TELEÍSLAS
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://barvatvplus.com/wp-content/uploads/2020/12/PicsArt_11-24-11.04.44.png" group-title="CINE Y SERIES", BARVA TV
 https://cp.sradiotv.com:1936/8076/8076/playlist.m3u8
+
+
 
