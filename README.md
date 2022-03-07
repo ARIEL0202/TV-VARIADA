@@ -1,9 +1,3 @@
-#EXTINF:-1, Television del Este www.achoAPPS.com
-http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-CwMYprB8eaA/XnATeNoPyXI/AAAAAAAAw-Y/I40dMYtgMWstYOVQvOI-uZArZune0a9VACK8BGAsYHg/s0/2020-03-16.jpg" group-title="CINE Y SERIES", Geovision
-https://5fa5de1a545ae.streamlock.net/Geovision/Geovision/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.vallevision.com.do/images/vallevision.png" group-title="CINE Y SERIES 2", VALLEVISION
 http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
 
@@ -19,22 +13,14 @@ http://newyorkstream.ddns.net:5854/telenord10/telenord10/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/2020-07/TeleSUR-Costa%2520Rica.png" group-title="INTERNACIONAL", TELESUR COSTA RICA
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
-#EXTINF:-124 tvg-logo="https://i.postimg.cc/qqMKPPvk/telesistema.png" group-title="COSTA RICA", TELESISTEMA
-http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w1494491629.m3u8
-
-#EXTINF:-1 tvg-id="101693" tvg-name="Retro TV Palmares" tvg-logo="https://lh3.googleusercontent.com/-69OUFEsZEzE/XuzYkDQB5ZI/AAAAAAAA2A8/TtTckrIloRkQkhv8uNthZzDvFMH-dAkFwCK8BGAsYHg/s0/2020-06-19.png", Retro TV Palmares
-http://tvretropalmares.com:8090/hls/envivo.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png" group-title="CINE Y SERIES 2", TELEUNION
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 
 #EXTINF:-1 tvg-id="La2.TV" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="SPAIN" tvg-name="La 2",La 2 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 
 #EXTINF: -1 group-title = "México" tvg-logo = "https://innovatv.live/posters/1602320590128.jpg", BITME http://51.79.18.128:8081/LATINO%7CBITME/LATINO%7CBITME/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png" group-title="CINE Y SERIES 2", TELEUNION
-http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="COSTA RICA",Extrema TV http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wYklHWy.png" group-title="DOMINICAN REPUBLIC",Telecanal 28 http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
 
 #EXTINF:-124 tvg-logo="https://i.postimg.cc/63VSjvyk/teleuno.png" group-title="COSTA RICA", TELE UNO  
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
@@ -44,12 +30,6 @@ http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
 
 #EXTINF:-240 tvg-logo="https://i.postimg.cc/0j2fGcsV/readytv.png" group-title="REPÚBLICA DOMINICANA", READY TV
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2195-320x180-000000.jpg" group-title="CINE Y SERIES", DANTV
-http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
-
-#EXTINF:-21 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png" group-title="NACIONALES", SOMOS DEL ESTE TV
-https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 
 #EXTINF:-130 tvg-logo="https://i.postimg.cc/6pCZMyFX/canal6rd.png" group-title="REPÚBLICA DOMINICANA", CANAL 6 DAJABÓN
 https://cdn4.hostlagarto.com:8081/static/canal6tv/playlist.m3u8
@@ -65,6 +45,9 @@ https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
 
 #EXTINF:-437 tvg-logo="https://i.postimg.cc/vHKN4jjZ/tvpop.jpg" group-title="MÚSICA", TV POP
 https://v4.tustreaming.cl/poptv/index.m3u8
+
+#EXTINF:-21 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png" group-title="NACIONALES", SOMOS DEL ESTE TV
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Zaidk6n.png" group-title="ARGENTINA",Telemax http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
@@ -216,4 +199,9 @@ https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
 #EXTINF: -1 group-title = "Entretenimiento" tvg-logo = "https://innovatv.live/posters/1602474788335.png", DELICIOSO
 http://54.39.49.162:8081/UNIVISIONDELICIOSO/USA%7CUNIVISIONDELICIOSO/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://graph.facebook.com/288850935035196/picture?width=200&height=200" group-title="SPAIN",Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+
+
 
