@@ -62,12 +62,6 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1604822537_b121000
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQveDDw-1eyCiqykUajXQ8IqRRCfTehbi_mj0jwSc3lm2t0754lpZIiZSEMyQWo1cVk0Im6X96FsFSwIeuHNcn_mg2xvOLDiGrxrlwN&usqp=CAU&ec=45688578" group-title="NORTE", CEEL 4 MISIONES
 https://5975e06a1f292.streamlock.net:4443/canal4eldorado/canal4eldorado/playlist.m3u8
 
-#EXTINF:-200 tvg-logo="https://i.postimg.cc/MKzRpp9G/rtn.png" group-title="ARGENTINA", RTN NEUQUÉN
-http://media.neuquen.gov.ar/rtn/television/chunklist_w380845367.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---X24.png" group-title="NORTE", X24 TUCUMAN 
-https://srv1.zcast.com.br/x24hd/x24hd/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Nueve_Litoral_%28Logo_2010%29.png" group-title="CENTRO", CANAL 9 PARANA
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
