@@ -27,6 +27,15 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 #EXTINF:-122 tvg-logo="https://i.postimg.cc/L5ByDK02/ticavision.png" group-title="COSTA RICA", TICAVISIÓN
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
+#EXTINF:-1 tvg-id="105943" tvg-name="Telesistema" tvg-logo="https://lh3.googleusercontent.com/-DiXsxeG-J7o/Xtvh7WdzH1I/AAAAAAAA1gs/DKW25Vh-p8AZ34jMpCCli_xGVIbdoCHyACK8BGAsYHg/s0/2020-06-06.png", Telesistema
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/Canal-Mundo-Colombia-en-vivo-Online.png" group-title="INTERNACIONAL", MUNDO+ COLOMBIA
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/2020-07/TeleSUR-Costa%2520Rica.png" group-title="INTERNACIONAL", TELESUR COSTA RICA
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Musicales", VC Online HD
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 
@@ -66,30 +75,6 @@ https://5975e06a1f292.streamlock.net:4443/canal4eldorado/canal4eldorado/playlist
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/21/Rts_1992.png/revision/latest/scale-to-width-down/340?cb=20200303190745" group-title="CINE Y SERIES", TELESISTEMA
-http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="105943" tvg-name="Telesistema" tvg-logo="https://lh3.googleusercontent.com/-DiXsxeG-J7o/Xtvh7WdzH1I/AAAAAAAA1gs/DKW25Vh-p8AZ34jMpCCli_xGVIbdoCHyACK8BGAsYHg/s0/2020-06-06.png", Telesistema
-http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-logo="http://amecanal47.com/images/ame_47_sm.jpg" group-title="CINE Y SERIES", AME47
-http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Ame HD" tvg-logo="https://i.imgur.com/FXRSd2J.png" group-title="PELICULAS",Ame HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/175
-
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/Canal-Mundo-Colombia-en-vivo-Online.png" group-title="INTERNACIONAL", MUNDO+ COLOMBIA
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/2020-07/TeleSUR-Costa%2520Rica.png" group-title="INTERNACIONAL", TELESUR COSTA RICA
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-
-#EXTINF:-1, MX: TELESUR www.achoAPPS.com
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-
-#EXTINF:-1 tvg-id="95385" tvg-name="TVR Canal 11" tvg-logo="https://lh3.googleusercontent.com/-D7L3q2KhyFA/XjQLBVPp_xI/AAAAAAAAvhk/YiyvFKiyTV8wmlJ3AKPuWIP-c99ZP3I0QCK8BGAsYHg/s0/2020-01-31.png", TVR Canal 11
-https://unlimited6-cl.dps.live/tvrcurico/tvrcurico.smil/tvrcurico/livestream1/chunks.m3u8?PlaylistM3UCL
 
 #EXTINF: -1, BRASIL SBT Caruaru
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8?ChannelsON
