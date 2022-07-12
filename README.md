@@ -73,7 +73,7 @@ https://5975e06a1f292.streamlock.net:4443/canal4eldorado/canal4eldorado/playlist
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Nueve_Litoral_%28Logo_2010%29.png" group-title="CENTRO", CANAL 9 PARANA
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
-
+   
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF: -1, BRASIL SBT Caruaru
