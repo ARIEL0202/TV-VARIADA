@@ -53,6 +53,9 @@ https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist_w1461023046.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="CUYO", CANAL 9 MENDOZA
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
 
+#EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/del-sur-tv.png" group-title="CUYO", DEL SUR TV SAN JUAN
+http://51.79.83.93:9998/live/delsurtv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png" group-title="CUYO", CANAL 34 SAN JUAN
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
@@ -68,6 +71,25 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1604822537_b121000
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Nueve_Litoral_%28Logo_2010%29.png" group-title="CENTRO", CANAL 9 PARANA
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
    
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png" group-title="NORTE", 13 MAX CORRIENTES
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
+  
+#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://vivotvhd.com/img/cha/948.gif" group-title = "ARGENTINA", 5TV Corrientes
+http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-NGDAifGyP1E/UpI-Xc5EYqI/AAAAAAAAAFM/jdgvD3akd_I/s320/canal11.jpg" group-title="NORTE", CANAL 11 MACHAGAI CHACO
+http://videostream.shockmedia.com.ar:1935/cristalfm/cristalfm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/radioplus1035.com.ar/wp/wp-content/uploads/2021/05/cropped-133737876_867518750733014_8075470442578818509_o-1.jpg?w=512" group-title="NORTE", CANAL 6 PLUS TV  PRESIDENCIA DE LA PLAZA  CHACO
+http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
+
+#EXTINF:-1 tvg-id="108931" tvg-name="5R TV Santa Fe" tvg-logo="https://lh3.googleusercontent.com/-D-8xG0f4oBQ/X1TItJKtLkI/AAAAAAAA5TM/gvEpwS7Aw20PVojHp5imn3-Ex5K0Z5ZHwCK8BGAsYHg/s0/2020-09-06.png", 5R TV Santa Fe
+http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,chaco dxd tv
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
+
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF: -1, BRASIL SBT Caruaru
