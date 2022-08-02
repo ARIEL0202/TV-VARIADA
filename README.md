@@ -47,6 +47,14 @@ https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png" group-title="CUYO", CANAL 4 SAN JUAN
+http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://diarioblu.com/wp-content/uploads/2020/10/cropped-113.png" group-title="CUYO", CANAL BLU SAN JUAN
+https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/radioplus1035.com.ar/wp/wp-content/uploads/2021/05/cropped-133737876_867518750733014_8075470442578818509_o-1.jpg?w=512" group-title="NORTE", CANAL 6 PLUS TV  PRESIDENCIA DE LA PLAZA  CHACO
+http://videostream.shockmedia.com.ar:1935/plustv/plustv/chunklist_w70863142.m3u8
 
 #EXTINF:-1 tvg-id="108923" tvg-name="Canal 13 La Rioja" tvg-logo="https://lh3.googleusercontent.com/-f20l_uEV2Mo/X1THHvcl76I/AAAAAAAA5Sk/7MhDM9q__hMsWcD2yyk27u_7VU9k9MA9wCK8BGAsYHg/s0/2020-09-06.jpg", Canal 13 La Rioja http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
 
@@ -82,6 +90,9 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?Playlis
 
 #EXTINF:-1,chaco dxd tv
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/JsIS1YqaTOrBxvKTb7kxByI2MQ6W1XTxGb3u_jp5AQoD09CEuPb7PfjAUNiAW-cM4oA" group-title="NORTE", CANAL 9 NORTE MISIONES
+https://panel.dattalive.com/8076/8076/playlist.m3u8
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
