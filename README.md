@@ -1,3 +1,9 @@
+#EXTINF:-1,MX: Tyc Sports
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/389.m3u8
+
+#EXTINF:-1,MX: MX: Fox Sports Premium
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/385.m3u8
+
 #EXTINF:-1,TNT Sports
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/99.m3u8
 
@@ -12,12 +18,6 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/383.m3u8
 
 #EXTINF:-1,MX: Win sports
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/384.m3u8
-
-#EXTINF:-1,MX: MX: Fox Sports Premium
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/385.m3u8
-
-#EXTINF:-1,MX: Tyc Sports
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/389.m3u8
 
 #EXTINF:-1,LIGA DE CAMPEONES
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/528.m3u8
