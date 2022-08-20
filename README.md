@@ -4,9 +4,6 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/389.m3u8
 #EXTINF:-1,MX: MX: Fox Sports Premium
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/385.m3u8
 
-#EXTINF:-1,TNT Sports
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/99.m3u8
-
 #EXTINF:-1,GOLTV
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/27.m3u8
 
@@ -16,56 +13,47 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/382.m3u8
 #EXTINF:-1,MX: Directv Sports 2
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/383.m3u8
 
-#EXTINF:-1,MX: Win sports
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/384.m3u8
-
-#EXTINF:-1,LIGA DE CAMPEONES
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/528.m3u8
-
-#EXTINF:-1,(UK) SKY SPORTS PERMIERE LEAGUE
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/32.m3u8
-
-#EXTINF:-1,(UK) SKY SPORTS F1
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/33.m3u8
-
-#EXTINF:-1,||ES3|| MOVISTAR F1 - DAZN
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/72.m3u8
-
-#EXTINF:-1,USA | TSN 1
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/73.m3u8
-
-#EXTINF:-1,USA: FS2
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/362.m3u8
-
-#EXTINF:-1,USA: UFC Fight Pass
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/378.m3u8
-
-#EXTINF:-1,WWE US
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/86.m3u8
-
-#EXTINF:-1,TNT Sports 2 Chile
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/94.m3u8
-
-#EXTINF:-1,MX || Cinemax HD
+#EXTINF:-1,Cinemax HD
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/35.m3u8
 
 #EXTINF:-1,AMC MX
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/101.m3u8
 
+#EXTINF:-1,Discovery World
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/391.m3u8
+
+#EXTINF:-1,CANAL ODISEA HD
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/98.m3u8
+
+#EXTINF:-1,MX: Dr House 24/7
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/408.m3u8
+
+#EXTINF:-1,MX: La Familia Peluche 24/7
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/405.m3u8
+
+#EXTINF:-1,MX: Hey Arnold ! 24/7
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/407.m3u8
+
+#EXTINF:-1,MX: Los Simpsons 24/7
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/414.m3u8
+
+#EXTINF:-1,MX: Chespirito 24/7
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/415.m3u8
+
+#EXTINF:-1,MX: Malcom 24/7
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/417.m3u8
+
+#EXTINF:-1,MX: Dinosaurios 24/7
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/411.m3u8
+
 #EXTINF:-1,TVE
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/106.m3u8
 
-#EXTINF:-1,||ES3|| ANTENA 3 HD
+#EXTINF:-1,ANTENA 3 HD
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/67.m3u8
 
-#EXTINF:-1,Claro | RAI
+#EXTINF:-1,RAI
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/70.m3u8
-
-#EXTINF:-1,MX: Discovery World
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/391.m3u8
-
-#EXTINF:-1,||ES3|| CANAL ODISEA HD
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/98.m3u8
 
 #EXTINF:-1,MX: Power Rangers Space 24/7
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/400.m3u8
@@ -82,17 +70,8 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/403.m3u8
 #EXTINF:-1,MX: Coraje Perro Cobarde 24/7
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/404.m3u8
 
-#EXTINF:-1,MX: La Familia Peluche 24/7
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/405.m3u8
-
 #EXTINF:-1,MX: Extranormal 24/7
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/406.m3u8
-
-#EXTINF:-1,MX: Hey Arnold ! 24/7
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/407.m3u8
-
-#EXTINF:-1,MX: Dr House 24/7
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/408.m3u8
 
 #EXTINF:-1,MX: Ranma 1/2 24/7
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/409.m3u8
@@ -100,23 +79,11 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/409.m3u8
 #EXTINF:-1,MX: Pokemon 24/7
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/410.m3u8
 
-#EXTINF:-1,MX: Dinosaurios 24/7
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/411.m3u8
-
 #EXTINF:-1,MX: Futurama 24/7
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/412.m3u8
 
 #EXTINF:-1,MX: Dragon Ball Super 24/7
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/413.m3u8
-
-#EXTINF:-1,MX: Los Simpsons 24/7
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/414.m3u8
-
-#EXTINF:-1,MX: Chespirito 24/7
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/415.m3u8
-
-#EXTINF:-1,MX: Malcom 24/7
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/417.m3u8
 
 #EXTINF:-1,MX: Chavo Animado 24/7
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/418.m3u8
@@ -202,9 +169,6 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/341.m3u8
 #EXTINF:-1,USA: Univision Los Angeles
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/342.m3u8
 
-#EXTINF:-1,USA: Univision Miami
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/345.m3u8
-
 #EXTINF:-1,TLENOVELAS UNIVISION
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/37.m3u8
 
@@ -222,6 +186,39 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/69.m3u8
 
 #EXTINF:-1,USA: Dog TV
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/377.m3u8
+
+#EXTINF:-1,MX: Win sports
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/384.m3u8
+
+#EXTINF:-1,LIGA DE CAMPEONES
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/528.m3u8
+
+#EXTINF:-1,(UK) SKY SPORTS PERMIERE LEAGUE
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/32.m3u8
+
+#EXTINF:-1,(UK) SKY SPORTS F1
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/33.m3u8
+
+#EXTINF:-1,||ES3|| MOVISTAR F1 - DAZN
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/72.m3u8
+
+#EXTINF:-1,TNT Sports
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/99.m3u8
+
+#EXTINF:-1,USA: FS2
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/362.m3u8
+
+#EXTINF:-1,USA: UFC Fight Pass
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/378.m3u8
+
+#EXTINF:-1,WWE US
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/86.m3u8
+
+#EXTINF:-1,TNT Sports 2 Chile
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/94.m3u8
+
+#EXTINF:-1,USA | TSN 1
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/73.m3u8
 
 #EXTINF:-1,US: ACC NETWORK | HD
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/74.m3u8
