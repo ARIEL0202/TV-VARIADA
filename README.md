@@ -25,6 +25,15 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/391.m3u8
 #EXTINF:-1,CANAL ODISEA HD
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/98.m3u8
 
+#EXTINF:-1,24/7 || Play! Cinema Disney Live Action
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/49.m3u8
+
+#EXTINF:-1,24/7 || Play! Cinema Disney Pixar #1
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/50.m3u8
+
+#EXTINF:-1,24/7 || Play! Cinema Disney Pixar #2
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/51.m3u8
+
 #EXTINF:-1,MX: Dr House 24/7
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/408.m3u8
 
@@ -40,6 +49,9 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/414.m3u8
 #EXTINF:-1,MX: Chespirito 24/7
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/415.m3u8
 
+#EXTINF:-1,24/7|| Halcones Galacticos
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/61.m3u8
+
 #EXTINF:-1,MX: Malcom 24/7
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/417.m3u8
 
@@ -54,6 +66,12 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/67.m3u8
 
 #EXTINF:-1,RAI
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/70.m3u8
+
+#EXTINF:-1,MX: Distrito Comedia
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/397.m3u8
+
+#EXTINF:-1,MX: El Gourmet
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/398.m3u8
 
 #EXTINF:-1,MX: Power Rangers Space 24/7
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/400.m3u8
@@ -103,23 +121,11 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/40.m3u8
 #EXTINF:-1,24/7 || Play! Cinema Lego Movies
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/48.m3u8
 
-#EXTINF:-1,24/7 || Play! Cinema Disney Live Action
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/49.m3u8
-
-#EXTINF:-1,24/7 || Play! Cinema Disney Pixar #1
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/50.m3u8
-
-#EXTINF:-1,24/7 || Play! Cinema Disney Pixar #2
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/51.m3u8
-
 #EXTINF:-1,24/7 || Play! Cinema DC Universe
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/53.m3u8
 
 #EXTINF:-1,24/7 || 40 y 20
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/58.m3u8
-
-#EXTINF:-1,24/7|| Halcones Galacticos
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/61.m3u8
 
 #EXTINF:-1,24/7|| DRAGON BALL
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/62.m3u8
@@ -135,12 +141,6 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/92.m3u8
 
 #EXTINF:-1,USA: Estrella Tv
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/375.m3u8
-
-#EXTINF:-1,MX: Distrito Comedia
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/397.m3u8
-
-#EXTINF:-1,MX: El Gourmet
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/398.m3u8
 
 #EXTINF:-1,MX: DePelicula Clasico
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/392.m3u8
@@ -202,9 +202,6 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/33.m3u8
 #EXTINF:-1,||ES3|| MOVISTAR F1 - DAZN
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/72.m3u8
 
-#EXTINF:-1,TNT Sports
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/99.m3u8
-
 #EXTINF:-1,USA: FS2
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/362.m3u8
 
@@ -214,6 +211,9 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/378.m3u8
 #EXTINF:-1,WWE US
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/86.m3u8
 
+#EXTINF:-1,TNT Sports
+http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/99.m3u8
+
 #EXTINF:-1,TNT Sports 2 Chile
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/94.m3u8
 
@@ -222,9 +222,6 @@ http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/73.m3u8
 
 #EXTINF:-1,US: ACC NETWORK | HD
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/74.m3u8
-
-#EXTINF:-1,ES||| EUROSPORT 2
-http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/96.m3u8
 
 #EXTINF:-1,USA: NBC SN Washington
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/346.m3u8
