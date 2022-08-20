@@ -21,6 +21,9 @@ http://newyorkstream.ddns.net:5854/telenord10/telenord10/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/2020-07/TeleSUR-Costa%2520Rica.png" group-title="INTERNACIONAL", TELESUR COSTA RICA
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://i.imgur.com/oWya6SB.png" group-title="Canales Peruanos", Central TV | SD
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Zaidk6n.png" group-title="ARGENTINA",Telemax http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
