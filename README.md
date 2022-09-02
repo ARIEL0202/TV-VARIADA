@@ -1,13 +1,3 @@
-#EXTINF:-1 tvg-id="" tvg-name="A3 Series lamtv" tvg-logo="http://51.222.152.107:81/posters/1530597051256.jpg" group-title="lamtv",A3 Series lamtv
-http://toleflix.tk:25461/Star05/05starxx/1850
-#EXTINF:-1 tvg-id="" tvg-name="A&e lamtv" tvg-logo="http://51.222.152.107:81/posters/1502752859399.jpg" group-title="lamtv",A&e lamtv
-http://toleflix.tk:25461/Star05/05starxx/1851
-#EXTINF:-1 tvg-id="" tvg-name="Adn 40 lamtv" tvg-logo="http://51.222.152.107:81/posters/1502409076451.jpg" group-title="lamtv",Adn 40 lamtv
-http://toleflix.tk:25461/Star05/05starxx/1852
-
-
------------------------------------------------------------------------------------------------------------------------------------------
-
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png" group-title="CUYO", CANAL 34 SAN JUAN
 http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
