@@ -1,3 +1,8 @@
+#EXTINF:-1 tvg-id="" tvg-name="Queer As Folk S01 E02" tvg-logo="http://tv.latintvweb.com:25461/images/65b39601f3166f12a4e583a9393f0e41.jpg" group-title="SERIES-DRAMA",Queer As Folk S01 E02
+http://tv.latintvweb.com:25461/series/LTN1160/VAVrfYykFd/21647.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Queer As Folk S01 E03" tvg-logo="http://tv.latintvweb.com:25461/images/f0f4ffe437ee1f767d9c908fcddb37be.jpg" group-title="SERIES-DRAMA",Queer As Folk S01 E03
+http://tv.latintvweb.com:25461/series/LTN1160/VAVrfYykFd/21648.mkv
+
 
 #EXTINF:-1 tvg-logo="http://diarioblu.com/wp-content/uploads/2020/10/cropped-113.png" group-title="CUYO", CANAL BLU SAN JUAN
 https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
