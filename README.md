@@ -1,4 +1,8 @@
-https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/homeland/Homeland%20Temporada%202.xml
+
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON TEMPORADA 1 CAP 01" tvg-logo="https://4.bp.blogspot.com/-SSk0pHvXSWk/VTst1DcMrAI/AAAAAAAAANs/XTY5iKS0FM8/s1600/pokemon6.jpg" group-title="POKEMON",POKEMON TEMPORADA 1 CAP 01
+http://download2264.mediafire.com/63paaqww6wxg/unht1j3uc8sackp/PKMON1-01%5Bpokemon-anime-por-mega.blogspot.com%5D.mp4
+#EXTINF:-1 tvg-id="" tvg-name="POKEMON TEMPORADA 1 CAP 02" tvg-logo="https://4.bp.blogspot.com/-SSk0pHvXSWk/VTst1DcMrAI/AAAAAAAAANs/XTY5iKS0FM8/s1600/pokemon6.jpg" group-title="POKEMON",POKEMON TEMPORADA 1 CAP 02
+http://download1583.mediafire.com/qs0rl3y3u99g/8kv8gm8a4bc7k86/PKMON1-02%5Bpokemon-anime-por-mega.blogspot.com%5D.mp4
 
 #EXTINF:-1 tvg-logo="http://diarioblu.com/wp-content/uploads/2020/10/cropped-113.png" group-title="CUYO", CANAL BLU SAN JUAN
 https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
