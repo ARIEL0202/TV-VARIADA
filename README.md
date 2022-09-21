@@ -1,4 +1,4 @@
-
+https://raw.githubusercontent.com/team1515/mirame/master/seriesemision/homeland/Homeland%20Temporada%202.xml
 
 #EXTINF:-1 tvg-logo="http://diarioblu.com/wp-content/uploads/2020/10/cropped-113.png" group-title="CUYO", CANAL BLU SAN JUAN
 https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
