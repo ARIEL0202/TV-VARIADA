@@ -17,6 +17,10 @@ http://newyorkstream.ddns.net:5854/telenord10/telenord10/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Zaidk6n.png" group-title="ARGENTINA",Telemax http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
+#EXTINF:-1 tvg-id="1230" tvg-name="EnerGeek Señal 3" tvg-logo="https://i2.paste.pics/2bf75a344d4cf7c2530247f14e101d84.png", EnerGeek Señal 3 
+https://stream.wifispeed.cl:3852/live/energeeklive.m3u8?PlaylistM3UCL
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/radioplus1035.com.ar/wp/wp-content/uploads/2021/05/cropped-133737876_867518750733014_8075470442578818509_o-1.jpg?w=512" group-title="NORTE", CANAL 6 PLUS TV  PRESIDENCIA DE LA PLAZA  CHACO
@@ -81,3 +85,8 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png" group-title="CUYO", CANAL 4 SAN JUAN
 http://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
            
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="81" tvg-name="Contivision" tvg-logo="https://i2.paste.pics/e2423d4364f7e13bcb55bde9fd708ede.png", Contivision | CL
+https://unlimited1-cl-isp.dps.live/contivision/contivision.smil/playlist.m3u8?PlaylistM3UCL
+
