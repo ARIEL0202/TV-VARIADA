@@ -1,3 +1,16 @@
+#EXTINF:-1 tvg-id="" tvg-name="AIDA TEM 1 CAP 01" tvg-logo="http://2.bp.blogspot.com/_urdyHm8rTJE/THpl7kjPesI/AAAAAAAAEHU/5gYcHu3wCO0/s320/Aida+01.jpg" group-title="AIDA TEM 1",AIDA TEM 1 CAP 01
+https://download946.mediafire.com/765egiv2liog/9o7id1t63fn19bc/Aida+1x01+Una+nueva+vida.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AIDA TEM 1 CAP 02" tvg-logo="http://2.bp.blogspot.com/_urdyHm8rTJE/THpl7kjPesI/AAAAAAAAEHU/5gYcHu3wCO0/s320/Aida+01.jpg" group-title="AIDA TEM 1",AIDA TEM 1 CAP 02
+https://download1080.mediafire.com/a6227j44iffg/fw1wfwryst922ya/Aida+1x02+Tootsie+que+vales.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AIDA TEM 1 CAP 03" tvg-logo="http://2.bp.blogspot.com/_urdyHm8rTJE/THpl7kjPesI/AAAAAAAAEHU/5gYcHu3wCO0/s320/Aida+01.jpg" group-title="AIDA TEM 1",AIDA TEM 1 CAP 03
+https://download1582.mediafire.com/899nflo4t9ag/y3a1ubp9q81a6j2/Aida+1x03+%C2%BFPero+qu%C3%A9+invento+es+%C3%A9ste.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AIDA TEM 1 CAP 04" tvg-logo="http://2.bp.blogspot.com/_urdyHm8rTJE/THpl7kjPesI/AAAAAAAAEHU/5gYcHu3wCO0/s320/Aida+01.jpg" group-title="AIDA TEM 1",AIDA TEM 1 CAP 04
+https://download1502.mediafire.com/tunwzuwjx6sg/xuo3icwf7jylo17/Aida+1x04+Sex%2C+lies+and+videotapes.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AIDA TEM 1 CAP 05" tvg-logo="http://2.bp.blogspot.com/_urdyHm8rTJE/THpl7kjPesI/AAAAAAAAEHU/5gYcHu3wCO0/s320/Aida+01.jpg" group-title="AIDA TEM 1",AIDA TEM 1 CAP 05
+https://download944.mediafire.com/v2kio9kx7cig/wvoy6arj3z4471s/Aida+1x05+El+cartero+s%C3%B3lo+llama+una+vez+y+a+veces%2C+ni+eso.mp4
+
+
+
 #EXTINF:-1 tvg-logo="http://diarioblu.com/wp-content/uploads/2020/10/cropped-113.png" group-title="CUYO", CANAL BLU SAN JUAN
 https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
 
