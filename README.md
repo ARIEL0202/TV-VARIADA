@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="" tvg-name="AIDA TEM 1 CAP 01" tvg-logo="http://2.bp.blogspot.com/_urdyHm8rTJE/THpl7kjPesI/AAAAAAAAEHU/5gYcHu3wCO0/s320/Aida+01.jpg" group-title="AIDA TEM 1",AIDA TEM 1 CAP 01
-https://download946.mediafire.com/765egiv2liog/9o7id1t63fn19bc/Aida+1x01+Una+nueva+vida.mp4
+https://miteleooyala-vh.akamaihd.net/i/o5MHRkZjE6ghXIKUyFOPyZsBvFx-oaM4/,DOcJ-FxaFrRg4gtDEwOm84OjBrOz0bxa,DOcJ-FxaFrRg4gtDEwOjEwYjowODE7je,DOcJ-FxaFrRg4gtDEwOjFsaTowODE7WX,DOcJ-FxaFrRg4gtDEwOjJjcTowODE7R4,.csmil/index_3_av.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="AIDA TEM 1 CAP 02" tvg-logo="http://2.bp.blogspot.com/_urdyHm8rTJE/THpl7kjPesI/AAAAAAAAEHU/5gYcHu3wCO0/s320/Aida+01.jpg" group-title="AIDA TEM 1",AIDA TEM 1 CAP 02
 https://download1080.mediafire.com/a6227j44iffg/fw1wfwryst922ya/Aida+1x02+Tootsie+que+vales.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AIDA TEM 1 CAP 03" tvg-logo="http://2.bp.blogspot.com/_urdyHm8rTJE/THpl7kjPesI/AAAAAAAAEHU/5gYcHu3wCO0/s320/Aida+01.jpg" group-title="AIDA TEM 1",AIDA TEM 1 CAP 03
