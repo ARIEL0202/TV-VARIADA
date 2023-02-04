@@ -58,17 +58,35 @@ http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+#EXTINF:-1,Telenord 8 
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+
+#EXTINF:-1,Telemilenio
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
+
+#EXTINF:-1,bh tv
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+
+#EXTINF:-1,iptvtools_275
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+
+#EXTINF:-1,iptvtools_290
+https://live-utv.unah.edu.hn/web/salida.m3u8
+
+#EXTINF:-1,iptvtools_225
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+
+#EXTINF:-1,iptvtools_250
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
+
+#EXTINF:-1,iptvtools_253
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
+
 #EXTINF:-1,iptvtools_193
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
 #EXTINF:-1,iptvtools_219
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-
-#EXTINF:-1 tvg-id="173573" tvg-name="MyTime movie network" tvg-logo="" group-title="..::Canales Premium::..", MyTime movie network
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,iptvtools_109
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 #EXTINF:-1,iptvtools_224
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
@@ -79,20 +97,8 @@ http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.clker.com/cliparts/B/x/g/L/h/v/blue-rounded-with-number-9-md.png",CANAL 9 TV SUR CR
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-nHFCYDL5_2o/AAAAAAAAAAI/AAAAAAAAAAA/5nCxkCQReb8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="ENTRETENIMIENTO",Telesur (Costa Rica)
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-
 #EXTINF:-1,telesur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-
-#EXTINF:-1,DW
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
-
-#EXTINF:-1,DW
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
-
-#EXTINF:-1 tvg-name="Telemadrid" tvg-logo="https://imgur.com/VSDsSTZ.png" group-title="Spain",Telemadrid
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
 
 #EXTINF:-1,iptvtools_115
 https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8
@@ -109,59 +115,14 @@ http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chu
 #EXTINF:-1,iptvtools_156
 http://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
 
-#EXTINF:-1,iptvtools_173
-http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
-
-#EXTINF:-1,iptvtools_190
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-
-#EXTINF:-1,iptvtools_191
-http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-
 #EXTINF:-1,iptvtools_195
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
-
-#EXTINF:-1,iptvtools_199
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 #EXTINF:-1,iptvtools_200
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
-#EXTINF:-1,iptvtools_220
-http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-
 #EXTINF:-1,iptvtools_222
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-
-#EXTINF:-1,iptvtools_225
-http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
-
-#EXTINF:-1,iptvtools_250
-http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
-
-#EXTINF:-1,iptvtools_253
-http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
-
-#EXTINF:-1,iptvtools_257
-http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
-
-#EXTINF:-1,iptvtools_259
-http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
-
-#EXTINF:-1,iptvtools_275
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-
-#EXTINF:-1,iptvtools_290
-https://live-utv.unah.edu.hn/web/salida.m3u8
-
-#EXTINF:-1,iptvtools_299
-http://186.121.206.197/live/daniel/index.m3u8
-
-#EXTINF:-1,iptvtools_307
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
-
-#EXTINF:-1,iptvtools_308
-http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 
 #EXTINF:-1,iptvtools_311
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
@@ -175,50 +136,14 @@ https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 #EXTINF:-1,iptvtools_334
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
-#EXTINF:-1,iptvtools_337
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
-#EXTINF:-1,iptvtools_339
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-
-#EXTINF:-1,Telenord 8 
-http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
-
 #EXTINF:-1,Telenord 10 
 http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
-
-#EXTINF:-1,Folketinget TV
-https://cdnapisec.kaltura.com/p/2158211/sp/215821100/playManifest/entryId/1_24gfa7qq/format/applehttp/protocol/https/uiConfId/41529681/a.m3u8
-
-#EXTINF:-1,Radio TeleBoston (USA)
-http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Retro TV" tvg-logo="https://imgur.com/PNTYOgg.png" group-title="USA",Retro TV
-https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/profile_1/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="Heartland" tvg-logo="https://imgur.com/a67bbag.png" group-title="USA",Heartland
 https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/profile_1/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="NBC News Now" tvg-logo="https://i.imgur.com/v48mMRT.png" group-title="USA",NBC News Now
-http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-name="BBC Food" tvg-logo="https://i.imgur.com/N3xiz4m.png" group-title="USA",BBC Food
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-name="BBC Home" tvg-logo="https://i.imgur.com/Ii8DX1x.png" group-title="USA",BBC Home
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
 #EXTINF:-1,Play TV
 http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
-
-#EXTINF:-1,bh tv
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-
-#EXTINF:-1,Ready TV
-http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
-
-#EXTINF:-1,Telemilenio
-http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
 
 #EXTINF:-1,CANAL 8 MX
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
@@ -229,26 +154,11 @@ http://45.55.127.106/live/unicanal.m3u8
 #EXTINF:-1,central tv
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
-#EXTINF:-1,Bolivia 2 FTA
-http://streamer1.streamhost.org:1935/salive/GMIalfam/playlist.m3u8
-
-#EXTINF:-1,Rtp Bolivia
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
-
-#EXTINF:-1,Canal Malaga
-http://canalmalaga-tv-live.flumotion.com/chunks.m3u8?fluxustv.m3u8
-
 #EXTINF:-1,tv ge
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
 
 #EXTINF:-1 ,AR-RIADIA
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-
-#EXTINF:-1 tvg-id="173401" tvg-name="ABC" tvg-logo="https://lh3.googleusercontent.com/-1aiXS-QFPKk/YIDhp6c_siI/AAAAAAABB2Q/nflof0ITHkMoR3Jh4jO78mWmvAUw4vCyACK8BGAsYHg/s512/2021-04-21.png" group-title="Sin Categoria", ABC
-https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/live-audio_track_0_0_und=64000-video_track=1200000.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,cultura 24
-http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
 
 #EXTINF:-1,COLOSAL
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
@@ -256,32 +166,8 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Internacionais", Baden TV [Alemanha]
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 
-#EXTINF:-1,tvg-id="ALBUK" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="ALB UK" tvg-logo="https://live-tv-channels.net/pt-data/uploads/logo/uk-alb-uk-plus.jpg" group-title="Movies",ALB UK
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
-
 #EXTINF:-1,Reload Play
 http://web.onair-radio.eu:1935/video/video/playlist.m3u8
-
-#EXTINF:-1,LIVE VTV
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="173503" tvg-name="174 Movie Kingdom" tvg-logo="https://i.imgur.com/pIuJqYk.png" group-title="Sin Categoria", 174 Movie Kingdom
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-name="Télé Québec" tvg-logo="https://i.imgur.com/8grBWK9.png" group-title="Canada",Télé Québec
-https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d2d642aa058bd63380ec39ecdef51b2e.jpg" group-title="VARIEDADES", TV CINEC
-https://59f1cbe63db89.streamlock.net:1443/tvcinec/tvcinec/chunklist_w323615480.m3u8
-
-#EXTINF:-1 tvg-name="COM Brasil" tvg-logo="https://i.imgur.com/c8ztQnF.png" group-title="Brazil",COM Brasil
-https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
-
-#EXTINF:-1 tvg-name="SBT Ⓢ" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="Brazil",SBT Ⓢ
-http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-
-#EXTINF:-1 tvg-name="TVE RS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png" group-title="Brazil",TVE RS
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.brasil247.com/images/cache/1000x357/crop/images%7Ccms-image-000563543.jpg" group-title="DOCUMENTARIOS",Grandes golpes
 http://archive.org/download/GrandesGolpesHistoryChannelHD/Grandes%20Golpes%20%5bHistory%20Channel%20HD%5d.mp4
@@ -353,8 +239,6 @@ https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="News",AMX Noticias (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-id="ADN40.mx" tvg-logo="https://i.imgur.com/x8lwsjM.png" group-title="News",ADN 40 (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC7k--FhnJzhPTrbtldMSoQQ/live
 #EXTINF:-1 tvg-id="ADNTV.cl" tvg-logo="https://i.imgur.com/AVfTwNw.png" group-title="News",ADN Radio (1080p)
 https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="APlus.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/a_mas-mediano.png" group-title="Culture",A Más (480p) [Geo-blocked]
@@ -948,3 +832,52 @@ http://s5.mexside.net:1935/telemax/telemax/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/unIacu1.png" group-title="MEXICO",Transmedia TV Morelia
 http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
 
+
+
+#EXTINF:-1 tvg-id="173573" tvg-name="MyTime movie network" tvg-logo="" group-title="..::Canales Premium::..", MyTime movie network
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,iptvtools_109
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1,DW
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0015
+
+#EXTINF:-1 tvg-name="Telemadrid" tvg-logo="https://imgur.com/VSDsSTZ.png" group-title="Spain",Telemadrid
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
+
+#EXTINF:-1,iptvtools_220
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Retro TV" tvg-logo="https://imgur.com/PNTYOgg.png" group-title="USA",Retro TV
+https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/profile_1/chunklist.m3u8
+
+#EXTINF:-1 tvg-name="NBC News Now" tvg-logo="https://i.imgur.com/v48mMRT.png" group-title="USA",NBC News Now
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BBC Food" tvg-logo="https://i.imgur.com/N3xiz4m.png" group-title="USA",BBC Food
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-name="BBC Home" tvg-logo="https://i.imgur.com/Ii8DX1x.png" group-title="USA",BBC Home
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1,Canal Malaga
+http://canalmalaga-tv-live.flumotion.com/chunks.m3u8?fluxustv.m3u8
+
+#EXTINF:-1,cultura 24
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
+
+#EXTINF:-1 tvg-id="173503" tvg-name="174 Movie Kingdom" tvg-logo="https://i.imgur.com/pIuJqYk.png" group-title="Sin Categoria", 174 Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-name="Télé Québec" tvg-logo="https://i.imgur.com/8grBWK9.png" group-title="Canada",Télé Québec
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d2d642aa058bd63380ec39ecdef51b2e.jpg" group-title="VARIEDADES", TV CINEC
+https://59f1cbe63db89.streamlock.net:1443/tvcinec/tvcinec/chunklist_w323615480.m3u8
+
+#EXTINF:-1 tvg-name="SBT Ⓢ" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="Brazil",SBT Ⓢ
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TVE RS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png" group-title="Brazil",TVE RS
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
