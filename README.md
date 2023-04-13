@@ -463,14 +463,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playl
 #EXTINF:-1 tvg-id="GravitasMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/H2hD4vT.png" group-title="USA",Gravitas Movies (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
 
-
-
-
 #EXTINF:-1 tvg-id="HappyKidsJunior.us" tvg-country="US" tvg-language="English" tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest?cb=20140525234116" group-title="USA",HappyKids Junior (720p)
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HiYAH" tvg-country="US" tvg-logo="https://i.imgur.com/uMPu5HU.png" group-title="USA",Hi-YAH! (1080p)
-https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HighwayThruHell.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fdd3d3be460a307a77f7e13" group-title="USA",Highway Thru Hell (720p)
 https://linear-120.frequency.stream/dist/localnow/120/hls/master/playlist.m3u8
@@ -483,12 +477,6 @@ https://hsn.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IonPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/d449jnv.png" group-title="USA",Ion Plus (1080p)
 https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="kabillion.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/2Ybvtlg.png" group-title="USA",kabillion (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KidsFlix.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZbAVzad.png" group-title="USA",KidsFlix (720p)
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 
 #EXTINF:-1 tvg-id="LocalNowAdrenalineRush.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/601341747e82bb6a262f276b" group-title="USA",Local Now Adrenaline Rush (720p)
 https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
@@ -532,9 +520,6 @@ https://mst3k-localnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimemovienetworkBrazil.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="USA",MyTime movie network Brazil (720p)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NewKidTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="USA",New Kid TV (1080p)
-https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Newsy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/eEqyFBX.jpg" group-title="USA",Newsy (1080p)
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 
@@ -553,20 +538,8 @@ https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlis
 #EXTINF:-1 tvg-id="WKMJTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://image.pbs.org/stations/wkle-color-single-brand-logo-yJUbW1W.png" group-title="USA",PBS KET 68.1 Louisville KY (WKMJ-TV) (720p)
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KETKY.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="USA",PBS Kids 68.2 Kentucky (KETKY) (720p)
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/slawVDH.png" group-title="24/7 ADULT SWIM",Black Jesus
-http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9lsXliT.png" group-title="24/7 ADULT SWIM",Tim and Eric
-http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qu9NAwe.png" group-title="USA",CBS News (Opt-2)
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uGKfZPF.png" group-title="USA",Chive TV
-http://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gV2Vmr9.png" group-title="USA",FailArmy (Opt-2)
 http://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
@@ -586,9 +559,6 @@ http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6g3c2Yb.png" group-title="USA",RedBox Hi-Yah!
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QL40Cv2.png" group-title="USA",RedBox Kabillion
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iK3OHVr.png" group-title="USA",RedBox Maverick Movies
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
  
@@ -598,18 +568,6 @@ https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KqjTIh8.png" group-title="USA",RedBox Spotlight
 https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OG8ifFe.png" group-title="USA",Shop HQ
-https://aos01-evine.secure.footprint.net/evine/cleanfeed/VIDEO_0_2064000.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YeSygn7.png" group-title="USA",TBD
-http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iAbU1OU.png" group-title="USA",The Pet Collective 2
-http://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WmFBaX6.png" group-title="USA PUBLIC",Southeastern Channel
-http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
- 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2BBGZ1H.png" group-title="SPAIN",Canal 25 Barbastro
 http://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8?fluxustv.m3u8
 
@@ -631,14 +589,8 @@ https://5940924978228.streamlock.net/8009/8009/chunklist_w922827150.m3u8?fluxust
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o8EtLad.png" group-title="SPAIN",RiberaTV
 http://common01.todostreaming.es/live/ribera-livestream.m3u8
 
-#EXTINF:-1 tvg-logo="https://doc-it.es/wp-content/uploads/2016/06/RTPA_logo.svg_.png" group-title="SPAIN",RTPA Asturias (Opt-2)
-http://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rDzlC0d.png" group-title="SPAIN",TeleRibera
 http://37.187.7.106/teleribera/live.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YCiTqGj.png" group-title="SPAIN",TV Ferrol
-https://directo.tvferrol.es/tv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HAbq91X.png" group-title="SPAIN",TV Municipal Cordoba (Opt-1)
 http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8?fluxustv.m3u8
@@ -649,9 +601,6 @@ http://europa-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A89L7IJ.png" group-title="SPAIN",TVG (Opt-2)
 http://amodino-crtvg.flumotion.com/playlist.m3u8?fluxustv.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kDt8pzL.png" group-title="LATIN AMERICA",La Mega Mundial
-http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cs16OLz.png" group-title="MEXICO",Canal 4 Saltillo
 http://162.241.190.126:1935/live/canal4/playlist.m3u8
 
@@ -664,9 +613,6 @@ https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8?fluxustv.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yr9M9Kj.png" group-title="MEXICO",Multimedios Laguna
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yr9M9Kj.png" group-title="MEXICO",Multimedios Monterrey
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?fluxustv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fKpOCv8.png" group-title="MEXICO",RCG 2 Saltillo
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
 
@@ -676,16 +622,11 @@ http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HCLEpfu.png" group-title="MEXICO",RTQ Queretaro
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://noticaribe.com.mx/wp/wp-content/uploads/2017/02/sqcsnuevo_-400x400.png" group-title="MEXICO",SQCS Chetumal
-http://streamingcws20.com:1935/sqcs/videosqcs/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LxbZ1x9.png" group-title="MEXICO",Telemax Hermosillo
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/unIacu1.png" group-title="MEXICO",Transmedia TV Morelia
 http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
-
-
 
 #EXTINF:-1 tvg-id="173573" tvg-name="MyTime movie network" tvg-logo="" group-title="..::Canales Premium::..", MyTime movie network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8?PlaylistM3UCL
@@ -729,14 +670,12 @@ https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/61016
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d2d642aa058bd63380ec39ecdef51b2e.jpg" group-title="VARIEDADES", TV CINEC
 https://59f1cbe63db89.streamlock.net:1443/tvcinec/tvcinec/chunklist_w323615480.m3u8
 
-#EXTINF:-1 tvg-name="SBT Ⓢ" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="Brazil",SBT Ⓢ
-http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-name="TVE RS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c2/Logotipo_da_TVE_RS.png" group-title="Brazil",TVE RS
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="News",AMX Noticias (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ADNTV.cl" tvg-logo="https://i.imgur.com/AVfTwNw.png" group-title="News",ADN Radio (1080p)
 https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8
 
@@ -747,6 +686,62 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="kabillion.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/2Ybvtlg.png" group-title="USA",kabillion (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KidsFlix.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZbAVzad.png" group-title="USA",KidsFlix (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+
+#EXTINF:-1 tvg-id="HiYAH" tvg-country="US" tvg-logo="https://i.imgur.com/uMPu5HU.png" group-title="USA",Hi-YAH! (1080p)
+https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NewKidTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="USA",New Kid TV (1080p)
+https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KETKY.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="USA",PBS Kids 68.2 Kentucky (KETKY) (720p)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/slawVDH.png" group-title="24/7 ADULT SWIM",Black Jesus
+http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9lsXliT.png" group-title="24/7 ADULT SWIM",Tim and Eric
+http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uGKfZPF.png" group-title="USA",Chive TV
+http://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QL40Cv2.png" group-title="USA",RedBox Kabillion
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OG8ifFe.png" group-title="USA",Shop HQ
+https://aos01-evine.secure.footprint.net/evine/cleanfeed/VIDEO_0_2064000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YeSygn7.png" group-title="USA",TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iAbU1OU.png" group-title="USA",The Pet Collective 2
+http://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WmFBaX6.png" group-title="USA PUBLIC",Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://doc-it.es/wp-content/uploads/2016/06/RTPA_logo.svg_.png" group-title="SPAIN",RTPA Asturias (Opt-2)
+http://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YCiTqGj.png" group-title="SPAIN",TV Ferrol
+https://directo.tvferrol.es/tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kDt8pzL.png" group-title="LATIN AMERICA",La Mega Mundial
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yr9M9Kj.png" group-title="MEXICO",Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="http://noticaribe.com.mx/wp/wp-content/uploads/2017/02/sqcsnuevo_-400x400.png" group-title="MEXICO",SQCS Chetumal
+http://streamingcws20.com:1935/sqcs/videosqcs/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SBT Ⓢ" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo.png" group-title="Brazil",SBT Ⓢ
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 
 #EXTINF:-1,iptvtools_224 ,TELESUR
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
