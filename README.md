@@ -18,7 +18,7 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="87" tvg-name="ITV Patagonia" tvg-logo="https://lh3.googleusercontent.com/-ZBNktblWn9U/YHTLWC_p1aI/AAAAAAABBXY/v90ntMGcb7kuYUK0yqNBGSTtu1JiQUHfQCK8BGAsYHg/s512/2021-04-12.png", ITV Patagonia | CL
-https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8?PlaylistM3UCL
+https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8?PlaylistM3UCL    
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
