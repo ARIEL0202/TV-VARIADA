@@ -1,8 +1,6 @@
 #EXTINF:-132 tvg-logo="https://i.postimg.cc/brKGThTr/telenord.png" group-title="REPÚBLICA DOMINICANA", TELENORD 10
 http://newyorkstream.ddns.net:5854/telenord10/telenord10/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Zaidk6n.png" group-title="ARGENTINA",Telemax http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-
 #EXTINF:-131 tvg-logo="https://i.postimg.cc/brKGThTr/telenord.png" group-title="REPÚBLICA DOMINICANA", TELENORD 8
 http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist.m3u8
 
@@ -14,15 +12,6 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://microvision.com.do/wp-content/uploads/Microvision_567-150.png" group-title="CINE Y SERIES 2", TELEUNION
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlmayaTV.py" tvg-logo="https://iptv.com.py/wp-content/uploads/2021/09/almalogo2021-300x153.png" group-title="Undefined",AlmayaTV
-https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlsaciasTV.hn" tvg-logo="https://i.imgur.com/PMZlhTZ.png" group-title="Undefined",Alsacias TV (ATV | Canal 28) (720p)
-https://emisoras.hn:8081/atv/index.m3u8
-
-#EXTINF:-1 tvg-id="AnexionTV.cr" tvg-logo="https://i.imgur.com/7pfXF8N.png" group-title="Undefined",Anexión TV Canal 36 (1080p)
-https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
 
 #EXTINF:-1 tvg-id="BHTV.pe" tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="General",BHTV (720p) [Not 24/7]
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
@@ -106,9 +95,6 @@ https://live-utv.unah.edu.hn/web/salida.m3u8
 #EXTINF:-1,iptvtools_225
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 
-#EXTINF:-1,iptvtools_253
-http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
-
 #EXTINF:-1,iptvtools_193
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
 
@@ -117,9 +103,6 @@ http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.clker.com/cliparts/B/x/g/L/h/v/blue-rounded-with-number-9-md.png",CANAL 9 TV SUR CR
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
-
-#EXTINF:-1,telesur
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
 #EXTINF:-1,iptvtools_115
 https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8
@@ -135,12 +118,6 @@ http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chu
 
 #EXTINF:-1,iptvtools_156
 http://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
-
-#EXTINF:-1,iptvtools_195
-http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
-
-#EXTINF:-1,iptvtools_200
-https://cdnhd.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1,iptvtools_222
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
@@ -159,12 +136,6 @@ https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
 #EXTINF:-1,Telenord 10 
 http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Heartland" tvg-logo="https://imgur.com/a67bbag.png" group-title="USA",Heartland
-https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/profile_1/chunklist.m3u8
-
-#EXTINF:-1,Play TV
-http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
 
 #EXTINF:-1,CANAL 8 MX
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
