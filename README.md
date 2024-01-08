@@ -753,3 +753,6 @@ http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 
 #EXTINF:-1,iptvtools_224 ,TELESUR
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
+#EXTINF:-1,EL TIEMPO    
+http://181.78.8.90:16123/play/ch42
