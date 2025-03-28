@@ -31,6 +31,9 @@ http://redima.pro:8880/1234567/1234567/302
 #EXTINF:-1,Campus Tv Talca
 http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cnt-media.boxqos.com/consumer/canals/canal-del-futbol/logo/canal-del-futbol-logo.png" tvg-name="CANAL DEL FUTBOL" group-title="DEPORTE",CANAL DEL FUTBOL
+http://redima.pro:8880/1234567/1234567/311
+
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png" group-title="CUYO", CANAL 34 SAN JUAN
