@@ -37,6 +37,12 @@ http://unlimited6-cl.dps.live/campustv/campustv.smil/campustv/livestream1/chunks
 #EXTINF:-1 tvg-id="" tvg-logo="https://cnt-media.boxqos.com/consumer/canals/canal-del-futbol/logo/canal-del-futbol-logo.png" tvg-name="CANAL DEL FUTBOL" group-title="DEPORTE",CANAL DEL FUTBOL
 http://redima.pro:8880/1234567/1234567/311
 
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="LA TELE" group-title="CINE",LA TELE
+http://redima.pro:8880/1234567/1234567/377
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" tvg-name="TELEAMAZONAS 1" group-title="ECUADOR",TELEAMAZONAS 1
+http://redima.pro:8880/1234567/1234567/451
+
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-34-san-juan.png" group-title="CUYO", CANAL 34 SAN JUAN
