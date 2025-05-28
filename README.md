@@ -4,7 +4,7 @@ https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 #EXTINF:-1 tvg-id="SarapiquiTV.cr" tvg-logo="https://i.imgur.com/obTnd32.png" group-title="VARIOS",Sarapiqui TV 
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TeleAragua.ve" tvg-logo="https://i.imgur.com/jPzcb2S.png" group-title="VARIOS",TeleAragua (480p)
+#EXTINF:-1 tvg-id="TeleAragua.ve" tvg-logo="https://i.imgur.com/jPzcb2S.png" group-title="VARIOS",TeleAragua 
 http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
 
 #EXTINF:0 tvg-id="ext" group-title="VARIOS",Canal 2 TV Quellón
@@ -12,6 +12,9 @@ http://unlimited1-us.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chu
 
 #EXTINF:-1 tvg-logo="http://www.clker.com/cliparts/B/x/g/L/h/v/blue-rounded-with-number-9-md.png" group-title="VARIOS",CANAL 9 TV SUR CR
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
+
+#EXTINF:-1 tvg-id="CaracolaTV.cl" tvg-logo="https://i.imgur.com/QGvfqug.png" group-title="VARIOS",Caracola TV (Peñalolén) 
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="87" tvg-name="ITV Patagonia" tvg-logo="https://lh3.googleusercontent.com/-ZBNktblWn9U/YHTLWC_p1aI/AAAAAAABBXY/v90ntMGcb7kuYUK0yqNBGSTtu1JiQUHfQCK8BGAsYHg/s512/2021-04-12.png" group-title="VARIOS", ITV Patagonia
 https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8?PlaylistM3UCL   
@@ -64,7 +67,19 @@ https://5940924978228.streamlock.net/8431/8431/playlist.m3u8
 #EXTINF:-1 tvg-id="STEuropeChannel.it" tvg-logo="https://i.imgur.com/M5j7y2N.png" group-title="VARIOS",ST Europe Channel 
 https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TelevisionMetropolis192.hn" tvg-logo="https://i.imgur.com/QaocW5x.png" group-title="VARIOS",Televisión Metrópolis 19.2 
+https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TuMusicaHD.do" tvg-logo="https://i.imgur.com/HnjUjog.png" group-title="VARIOS",Tu Música HD (1080p)
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+
+#EXTINF:-1 tvg-id="PromovideoTV.it" tvg-logo="https://i.imgur.com/eKpS5Ck.png" group-title="VARIOS",Promovideo TV 
+https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8
+
 -----------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="VARIOS",Ciudad Magazine 
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
 #EXTINF:-1 tvg-id="Telecinco.ar" tvg-logo="https://i.imgur.com/ZDenyAE.png" group-title="VARIOS",TeleCinco Trelew 
 https://videohd.live:19360/8016/8016.m3u8
 
@@ -90,9 +105,6 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIOS",CALI TV
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.clker.com/cliparts/B/x/g/L/h/v/blue-rounded-with-number-9-md.png" group-title="VARIOS",CANAL 9 TV SUR CR
-http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
 
 #EXTINF:-1 group-title="VARIOS",iptvtools_117
 https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunks.m3u8
