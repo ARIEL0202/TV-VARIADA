@@ -10,6 +10,9 @@ http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
 #EXTINF:0 tvg-id="ext" group-title="VARIOS",Canal 2 TV Quellón
 http://unlimited1-us.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIOS",STV El Canal Familiar 
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.clker.com/cliparts/B/x/g/L/h/v/blue-rounded-with-number-9-md.png" group-title="VARIOS",CANAL 9 TV SUR CR
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
 
@@ -76,6 +79,12 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 tvg-id="PromovideoTV.it" tvg-logo="https://i.imgur.com/eKpS5Ck.png" group-title="VARIOS",Promovideo TV 
 https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TopTV.pe" tvg-logo="https://i.imgur.com/N5auYKR.png" group-title="VARIOS",Top FM TV (Atalaya) 
+https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+
+#EXTINF:-1 tvg-id="UCV3TV.cl" tvg-logo="https://i.imgur.com/evLTaDq.png" group-title="VARIOS",UCV3 TV 
+http://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
 -----------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="VARIOS",Ciudad Magazine 
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
@@ -92,7 +101,7 @@ https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-P6gxaSGuYOY/Xjs7U_dYASI/AAAAAAAAvnc/Dj2e2bzLHdgo45TH9mqETojtcfMhKpX4wCK8BGAsYHg/s0/2020-02-05.png" group-title="VARIOS", 13 MAX CORRIENTES
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8
   
-#EXTINF: -1 tvg-id = "" tvg-name = "" tvg-logo = "http://vivotvhd.com/img/cha/948.gif" group-title = "VARIOS", 5TV Corrientes
+#EXTINF:-1 tvg-id="" tvg-name = "" tvg-logo = "http://vivotvhd.com/img/cha/948.gif" group-title = "VARIOS", 5TV Corrientes
 http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
 
 -----------------------------------------------------------------------------------------------------------------------------------------
