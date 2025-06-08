@@ -1,10 +1,10 @@
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIOS",STV El Canal Familiar 
-http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+#EXTINF:-1 group-title="VARIOS",El Salvador digital
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIOS",Sol TV 
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 
-#EXTINF:-1 tvg-id="SarapiquiTV.cr" tvg-logo="https://i.imgur.com/obTnd32.png" group-title="VARIOS",Sarapiqui TV 
+#EXTINF:-1 tvg-id="SarapiquiTV.cr" tvg-logo="https://i.imgur.com/obTnd32.png" group-title="VARIOS",STV
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TeleAragua.ve" tvg-logo="https://i.imgur.com/jPzcb2S.png" group-title="VARIOS",TeleAragua 
@@ -75,6 +75,9 @@ https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 
 #EXTINF:-1 tvg-id="PopularTVMelilla.es" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/hwlTrtF.png" group-title="VARIOS",Popular TV Melilla 
 http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="VARIOS",AsiriTV (Lima)
+https://video2.lhdserver.es/asiritv/live.m3u8
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="VARIOS",Ciudad Magazine 
