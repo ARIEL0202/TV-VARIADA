@@ -10,6 +10,9 @@ http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleAragua.ve" tvg-logo="https://i.imgur.com/jPzcb2S.png" group-title="VARIOS",TeleAragua 
 http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
 
+#EXTINF:-1 tvg-id="AtacamaTV.cl" tvg-logo="https://i.imgur.com/GG8y4A9.png" group-title="VARIOS",Atacama TV (Copiapó) 
+https://v2.tustreaming.cl/atacamatv/index.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="VARIOS",Canal 2 TV Quellón
 http://unlimited1-us.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
 
