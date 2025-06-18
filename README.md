@@ -82,7 +82,17 @@ http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
 #EXTINF:-1 tvg-id="AsiriTV.pe" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="VARIOS",AsiriTV (Lima)
 https://video2.lhdserver.es/asiritv/live.m3u8
 
------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="Boreal.do" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Undefined",Boreal
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XymK2PR.png" group-title="ITALY",Tele Abruzzo
+http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="BayresTV.ar" tvg-logo="https://i.imgur.com/9FDqljV.png" group-title="Undefined",Bayres TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
 #EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="VARIOS",Ciudad Magazine 
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
