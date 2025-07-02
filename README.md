@@ -2,7 +2,7 @@
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="VARIOS",Sol TV 
-https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8    
 
 #EXTINF:-1 tvg-id="SarapiquiTV.cr" tvg-logo="https://i.imgur.com/obTnd32.png" group-title="VARIOS",STV
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
